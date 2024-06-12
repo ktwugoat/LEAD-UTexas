@@ -17,39 +17,16 @@ subtitle:
 <br><br><br><br><br><br>
 
 
-
-<b><span style="font-size: 20px !important; color: #45ba0e;">2017 undergrad summer interns (CNIR Summer internship program)</span></b>
+<b><span style="font-size: 20px !important; color: #45ba0e;">Former Group Photo</span></b>
 <hr>
 
-<img src="/people/images/Summerinterns2017.jpg" width="450" align="left" hspace="20" />
+<img src="/people/images/??Summerinterns2017.jpg" width="450" align="center" hspace="20" />
+
 
 <br><br><br><br><br><br>
 
-
-<h2>Faculty</h2>
-<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
-	Prof. Zong-Liang Yang (杨宗良)
-</div>
-<div style="font-size: 15px !important; color: #555; float:left;">
-	<a href="mailto:zlyang???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
-		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
-	</a>
-	<a href="https://www.geo.utexas.edu/climate/" target="_blank" title="Website" style="margin-right: 8px">
-		<img src="/img/website-icon.png" width="auto" height="20" alt="website"/>
-	</a>
-	<a href="http://www.linkedin.com/pub/zong-liang-yang/4/5b8/b00" target="_blank" title="LinkedIn" style="margin-right: 8px">
-		<img src="/img/linkedin-icon.png" width="auto" height="20" alt="LinkedIn"/>
-	</a>
-	<a href="http://scholar.google.com/citations?user=ZncpGB0AAAAJ&hl=en&oi=ao" target="_blank" title="Google Scholar" style="margin-right: 8px">
-		<img src="/img/google-scholar-icon.png" width="auto" height="20" alt="Google Scholar"/>
-	</a>
-	<a href="http://www.researcherid.com/rid/B-4916-2011" target="_blank" title="ResearcherID" style="margin-right: 8px">
-		<img src="/img/researcherid-icon.png" width="auto" height="20" alt="ResearcherID"/>
-	</a>
-</div>
-<div style="clear:both;"></div>
-<p>Ph.D., Macquarie University, Sydney, Australia (1992).</p>
-<p><em>Research interests:</em> Land Surface Processes and Modeling, Climate Modeling, Land Surface Parameterization Development, Land-Atmosphere Interaction, Hydroclimatology, Hydrometeorology, Water Resources and Sustainability, Multi-sensor Data Assimilation, Flood and Drought, Biogenic Emissions, Air Quality, Integrated Modeling and Impacts Assessment.</p>
+<br><br><br><br><br><br>
+<br><br><br><br><br><br>
 
 <h2>Research Associate/Scientist</h2>
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
