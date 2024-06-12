@@ -53,7 +53,15 @@ Dr. Zong-Liang Yang is a Professor in the Department of Earth and Planetary Scie
 	<a href="mailto:ktwu@utexas.edu"  target="_top" title="email" style="margin-right: 8px">
 		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
+	<a href="https://github.com/ktwu01/" target="_blank" title="KW github" style="margin-right: 8px">
+		<img src="/img/github-brands.png" width="auto" height="20" alt="github"/>
+	</a>
+	<a href="https://twitter.com/ktwu01/" target="_blank" title="ktwu01 X" style="margin-right: 8px">
+		<img src="/img/X_icon.svg" width="auto" height="20" alt="X"/>
+	</a>
+<span style="font-size: 14px !important; color: #555;"><a href="/pdfs/mockCV.pdf" target="_blank">CV</a> | <a href="https://scholar.google.com/citations?hl=en&user=s9w1k-cAAAAJ" target="_blank" >Google Scholar</a> </span>
 </div>
+
 <br>
 
 <img src="/people/images/0KW_Profile_4_3.jpg" width="150" height="215" align="left" hspace="20" />
