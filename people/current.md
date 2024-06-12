@@ -6,10 +6,10 @@ subtitle: LEAD Group members
 
 <p id="Wani"></p>
 
-<b><span style="font-size: 25px !important; color: #BD0026;">Lab director</span></b>
+<b><span style="font-size: 25px !important; color: #BD0026;">Faculty</span></b>
 <hr>
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
-	Zong-Liang Yang
+Dr. Zong-Liang Yang
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
 	<a href="mailto:liang@jsg.utexas.edu"  target="_top" title="liang@jsg.utexas.edu" style="margin-right: 8px">
@@ -18,14 +18,23 @@ subtitle: LEAD Group members
 <!-- 	<a href="https://github.com/wanirepo/" target="_blank" title="wani github" style="margin-right: 8px">
 		<img src="/img/github-brands.png" width="auto" height="20" alt="github"/> -->
 <!-- 	</a> -->
-	<a href="https://twitter.com/zlyang/" target="_blank" title="zlyang twitter" style="margin-right: 8px">
-		<img src="/img/twitter-icon.png" width="auto" height="20" alt="twitter"/>
+	<a href="https://twitter.com/zlyang/" target="_blank" title="zlyang X" style="margin-right: 8px">
+		<img src="/img/X_icon.svg" width="auto" height="20" alt="X"/>
 	</a>
 </div>
 <br>
 <img src="/people/images/Liang.jpg" width="150" height="auto" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">Dr. Zong-Liang Yang is a Professor in the Department of Geological Sciences, Jackson School of Geosciences and currently holds the John A. and Katherine G. Jackson Chair in Earth System Sciences. He is also a holder of Dave P. Carlton Centennial Professorship in Geology and Director of the Center for Integrated Earth System Science at the University of Texas at Austin. He has authored more than 170 peer-reviewed journal articles (with a Web of Knowledge h-index of 53, total citation 13200 and a Google Scholar h-index of 64, total citation 22600). He teaches classes on physical climatology, hydroclimatology, land atmosphere interaction dynamics, and climate change. He has graduated 16 PhD students and 3 MS thesis students since coming to Austin in 2001. Before joining the faculty at UT-Austin, Dr. Yang was a postdoc and then research faculty at the University of Arizona and he holds a Ph.D. degree in Atmospheric Sciences from Macquarie University and an MS in Meteorology from University of Melbourne in Australia.
-His research focuses on understanding and modeling of land-atmosphere exchanges of energy, mass and momentum, quantifying land climate interaction & feedback strengths, and exploring important applications of societal relevance such as prediction of hydrological extremes (floods and droughts). His approaches include theoretical work, data analysis and numerical modeling. His terrestrial hydrological parameterizations and land surface models (CLM and Noah-MP) are used by the U.S. National Center for Atmospheric Research (in two of its premier models, the Community Earth System Model and the Weather Research Forecasting model), the U.S. National Centers for Environmental Prediction (the Climate Forecast System), the U.S. National Water Center (the National Water Model) and other major modeling centers worldwide. These predictive models have proven extremely critical and beneficial in climate applications and in accurately forecasting extreme weather and water events (including recent Hurricane Harvey) and associated impacts. He also develops innovative dynamic downscaling methods that generate high-resolution regional climate information for impact assessments and resource decision-making.
+<span style="font-size: 15px !important; color: #555;">
+
+Dr. Zong-Liang Yang is a Professor in the Department of Earth and Planetary Sciences at The University of Texas at Austin, where he holds the prestigious John A. and Katherine G. Jackson Chair in Earth System Sciences. With a distinguished career in the field of climate and environmental sciences, Dr. Yang’s research focuses on understanding and modeling land surface processes and their interactions with the atmosphere.
+
+His work spans a wide array of topics including ecohydrology, climate modeling, and the dynamics of land-atmosphere interactions. Dr. Yang is particularly renowned for his contributions to the development and application of advanced land surface models, such as the Noah-MP model, which are pivotal in improving weather forecasts, climate predictions, and hydrological simulations.
+
+Dr. Yang’s research has been widely published in leading scientific journals, and he has been an active participant and organizer of numerous international conferences and workshops. His collaborations with researchers and institutions around the globe underscore his commitment to advancing our understanding of environmental processes and their impact on climate.
+
+At UT Austin, Dr. Yang leads a dynamic research group that tackles pressing environmental challenges through innovative modeling approaches and interdisciplinary collaboration. His dedication to mentoring the next generation of scientists and his active engagement in the scientific community make him a leading figure in his field.
+
+Before joining the faculty at UT Austin, Dr. Yang was a postdoc and then research faculty at the University of Arizona. He holds a Ph.D. in Atmospheric Sciences from Macquarie University and an M.S. in Meteorology from the University of Melbourne in Australia. 
 </span>
 
 <span style="font-size: 14px !important; color: #555;"><a href="/pdfs/CV_Woo_April2019.pdf" target="_blank">CV</a> | <a href="http://scholar.google.com/citations?user=ZncpGB0AAAAJ&hl=en" target="_blank" >Google Scholar</a> </span>
