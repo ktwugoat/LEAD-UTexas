@@ -4,6 +4,8 @@ title: LEAD Group Members
 subtitle: 
 ---
 
+<img src="/people/images/LEAD-GroupPhoto.jpg" width="450" align="center" hspace="20" target="_blank" title="LEAD-GroupPhoto" />
+
 <p id="Liang"></p>
 
 <b><span style="font-size: 25px !important; color: #BD0026;">Faculty</span></b>
