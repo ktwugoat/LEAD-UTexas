@@ -1,7 +1,7 @@
 ---
 layout: page
-title: People
-subtitle: LEAD Group members
+title: LEAD Group Members
+subtitle: 
 ---
 
 <p id="Wani"></p>
@@ -9,7 +9,7 @@ subtitle: LEAD Group members
 <b><span style="font-size: 25px !important; color: #BD0026;">Faculty</span></b>
 <hr>
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
-Dr. Zong-Liang Yang
+	Dr. Zong-Liang Yang
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
 	<a href="mailto:liang@jsg.utexas.edu"  target="_top" title="liang@jsg.utexas.edu" style="margin-right: 8px">
@@ -21,7 +21,7 @@ Dr. Zong-Liang Yang
 	<a href="https://twitter.com/zlyang/" target="_blank" title="zlyang X" style="margin-right: 8px">
 		<img src="/img/X_icon.svg" width="auto" height="20" alt="X"/>
 	</a>
-<span style="font-size: 14px !important; color: #555;"><a href="/pdfs/CV_Woo_April2019.pdf" target="_blank">CV</a> | <a href="http://scholar.google.com/citations?user=ZncpGB0AAAAJ&hl=en" target="_blank" >Google Scholar</a> </span>
+<span style="font-size: 14px !important; color: #555;"><a href="/pdfs/mockCV.pdf" target="_blank">CV</a> | <a href="http://scholar.google.com/citations?user=ZncpGB0AAAAJ&hl=en" target="_blank" >Google Scholar</a> </span>
 
 </div>
 <br>
@@ -44,20 +44,20 @@ Before joining the faculty at UT Austin, Dr. Yang was a postdoc and then researc
 <b><span style="font-size: 25px !important; color: #BD0026;">Graduate students</span></b>
 <hr>
 
-<p id="Lada"></p>
+<p id="Koutian"></p>
 
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
-	???????????????
+	Koutian Wu
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
-	<a href="mailto:???????????????"  target="_top" title="???????????????" style="margin-right: 8px">
+	<a href="mailto:ktwu@utexas.edu"  target="_top" title="email" style="margin-right: 8px">
 		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
 </div>
 <br>
 
-<img src="/people/images/Lada.jpg" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">Lada is a graduate student in the Cocoan lab. She joined the lab in summer 2017 as a post-master researcher, and she decided to do her PhD here starting in spring 2019. She received her BS and MS in electrical engineering from Czech Technical University. Her research interests include computational methods in neuroscience and their application in biomarker development. She is also interested in individual variations in brain activity. She is currently working on a project aimed to enhance interpretability of computational models in neuroimaging.</span>
+<img src="/people/images/0KW_Profile_4_3.jpg" width="150" height="215" align="left" hspace="20" />
+<span style="font-size: 15px !important; color: #555;">Koutian Wu is a first-year Ph.D. student at the LEAD Group. He previously graduated from the School of Earth and Space Sciences at the University of Science and Technology of China (USTC), Class of 2020. He is interested in enhancing the capability of land-climate models, and ultimately wants to combine in-situ measurements, remote sensing, and kilometer-scale modeling to uncover and tackle emerging climate challenges for humanity. He is currently working on integrating rock moisture and wood moisture into the hydrological cycle using the Noah-MP model. He attended the AGU Fall Meeting 2023 and attended the poster session as the first author. Additionally, he has presented case studies as an undergraduate representative at conferences like the Top Innovative Talents Symposium (Tsinghua University) and has spoken at the USTC seminar hosted by the National Natural Science Foundation of China. Koutian Wu has been awarded the "Outstanding Undergraduate Honor" and the title of "Excellent Graduate" by USTC.</span>
 
 <br><br><br><br>
 
