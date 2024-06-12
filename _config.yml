@@ -31,14 +31,15 @@ navbar-links:
   ?Prospective Students: ""
   # ?News: "news/2024"
   # - 2020: "news/2020"
-  ?Research: 
+  Research:
+   - ?Projects: "research/overview"
    - ?Projects: "research/projects"
-   - ?Codes: "research/codes"
+   - ?Codes: "research/models"
    - ?Data: "research/data"
-  ?Publications: "publication"
-  ?Presentations: "presentation"
-  ?Courses: "course"
-  ?Photos: "photos"
+  Publications: "publication"
+  Teaching: "teaching"
+  # ?Presentations: "presentation"
+  # ?Photos: "photos"
   # Videos: "videos"
   #CV: "https://drive.google.com/file/d/1uZrtJP8w9CClUFzx9vthnPH6lLDAwjTo/view?usp=sharing"
 
