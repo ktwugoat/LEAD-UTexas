@@ -8,21 +8,15 @@ subtitle:
 <b><span style="font-size: 25px !important; color: #BD0026;">Research staffs</span></b>
 <hr>
 
-<p id="?Catherine"></p>
-
-<b><span style="font-size: 20px !important; color: #0055A9;">Catherine Cho</span></b>
-
-<img src="/people/images/CatherineCho.png" width="150" height="215" align="left" hspace="20" /><span style="font-size: 15px !important; color: #555;">
-Catherine was a postdoc in the Cocoan lab. She was interested in identifying neural markers associated with affective and cognitive constructs and developing a framework for psychological components. </span>
 
 <br><br><br><br><br><br><br>
-
 
 <b><span style="font-size: 25px !important; color: #BD0026;">Undergraduate students</span></b>
 <hr>
 
-
 <br><br><br><br><br><br>
+
+
 
 <b><span style="font-size: 20px !important; color: #45ba0e;">2017 undergrad summer interns (CNIR Summer internship program)</span></b>
 <hr>
@@ -31,3 +25,785 @@ Catherine was a postdoc in the Cocoan lab. She was interested in identifying neu
 
 <br><br><br><br><br><br>
 
+
+<h2>Faculty</h2>
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Prof. Zong-Liang Yang (杨宗良)
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:zlyang???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+	<a href="https://www.geo.utexas.edu/climate/" target="_blank" title="Website" style="margin-right: 8px">
+		<img src="/img/website-icon.png" width="auto" height="20" alt="website"/>
+	</a>
+	<a href="http://www.linkedin.com/pub/zong-liang-yang/4/5b8/b00" target="_blank" title="LinkedIn" style="margin-right: 8px">
+		<img src="/img/linkedin-icon.png" width="auto" height="20" alt="LinkedIn"/>
+	</a>
+	<a href="http://scholar.google.com/citations?user=ZncpGB0AAAAJ&hl=en&oi=ao" target="_blank" title="Google Scholar" style="margin-right: 8px">
+		<img src="/img/google-scholar-icon.png" width="auto" height="20" alt="Google Scholar"/>
+	</a>
+	<a href="http://www.researcherid.com/rid/B-4916-2011" target="_blank" title="ResearcherID" style="margin-right: 8px">
+		<img src="/img/researcherid-icon.png" width="auto" height="20" alt="ResearcherID"/>
+	</a>
+</div>
+<div style="clear:both;"></div>
+<p>Ph.D., Macquarie University, Sydney, Australia (1992).</p>
+<p><em>Research interests:</em> Land Surface Processes and Modeling, Climate Modeling, Land Surface Parameterization Development, Land-Atmosphere Interaction, Hydroclimatology, Hydrometeorology, Water Resources and Sustainability, Multi-sensor Data Assimilation, Flood and Drought, Biogenic Emissions, Air Quality, Integrated Modeling and Impacts Assessment.</p>
+
+<h2>Research Associate/Scientist</h2>
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Dr. Jiangfeng Wei
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:jfwei???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+	<a href="https://www.jsg.utexas.edu/researcher/jiangfeng_wei/" target="_blank" title="Website" style="margin-right: 8px">
+		<img src="/img/website-icon.png" width="auto" height="20" alt="website"/>
+	</a>
+</div>
+<div style="clear:both;"></div>
+<p>Ph.D., Georgia Institute of Technology (2007).</p>
+<p><em>Research interests:</em> climate modeling, land surface modeling, land-atmosphere coupling strength, back-trajectory analysis of water vapor.</p>
+
+<h2>Postdoctoral Fellow</h2>
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Dr. Long Zhao
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:lzhao???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+	<a href="https://sites.google.com/site/zhaol04/" target="_blank" title="Website" style="margin-right: 8px">
+		<img src="/img/website-icon.png" width="auto" height="20" alt="website"/>
+	</a>
+</div>
+<div style="clear:both;"></div>
+<p>Ph.D., Chinese Academy of Sciences (2013).</p>
+<p><em>Research interests:</em> land data assimilation, soil moisture, remote sensing, field measurement, Tibetan Plateau hydroclimatology.</p>
+
+<h2>Current Graduate Students</h2>
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Xitian Cai
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:xcai???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+	<a href="https://www.jsg.utexas.edu/student/xitian_cai/" target="_blank" title="Website" style="margin-right: 8px">
+		<img src="/img/website-icon.png" width="auto" height="20" alt="website"/>
+	</a>
+</div>
+<div style="clear:both;"></div>
+<p>Ph.D. Candidate. BS (2005), Wuhan University, MS Hydrology and Water Resources Engineering (2009), Beijing Normal University.</p>
+<p><em>Research interests:</em> hydrological modeling, nutrient exports, coastal environment.</p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Maryia Halubok
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:mhalubok???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+	<a href="https://sites.google.com/a/utexas.edu/maryia_halubok/" target="_blank" title="Website" style="margin-right: 8px">
+		<img src="/img/website-icon.png" width="auto" height="20" alt="website"/>
+	</a>
+</div>
+<div style="clear:both;"></div>
+<p>Ph.D. Aspirant. BS Hydrometeorology (2012), Belarusian State University.</p>
+<p><em>Research interests:</em> land-atmosphere interaction, remote sensing, climate change.</p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Yonghwan Kwon
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:ykwon???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+	<a href="https://sites.google.com/a/utexas.edu/yonghwan_kwon/home" target="_blank" title="Website" style="margin-right: 8px">
+		<img src="/img/website-icon.png" width="auto" height="20" alt="website"/>
+	</a>
+</div>
+<div style="clear:both;"></div>
+<p>Ph.D. Candidate. B. Agr. (2004), MS Environmental Management (2009), Seoul National University.</p>
+<p><em>Research interests:</em> microwave radiative transfer in the snowpack in the forested environment, data assimilation, land surface modeling, hydrology.</p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Qinjian Jin
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:qjin???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+	<a href="https://sites.google.com/a/utexas.edu/qinjian-jin/" target="_blank" title="Website" style="margin-right: 8px">
+		<img src="/img/website-icon.png" width="auto" height="20" alt="website"/>
+	</a>
+</div>
+<div style="clear:both;"></div>
+<p>Ph.D. Candidate. BS Electronics and Electric Engineering (2009), Lanzhou University.</p>
+<p><em>Research interests:</em> dust emissions, aerosols, climate modeling.</p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Peirong Lin
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:plin???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+	<a href="https://sites.google.com/site/peironglinlin/home" target="_blank" title="Website" style="margin-right: 8px">
+		<img src="/img/website-icon.png" width="auto" height="20" alt="website"/>
+	</a>
+</div>
+<div style="clear:both;"></div>
+<p>Ph.D. Aspirant. BS Geological Sciences and Remote Sensing (2012), Beijing University.</p>
+<p><em>Research interests:</em> lake/reservoir modeling, river networks, soil moisture, hydrological modeling, climate science.</p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Xiaolu Ling
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:xling???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+	<a href="https://sites.google.com/site/lingxiaolu0908/home" target="_blank" title="Website" style="margin-right: 8px">
+		<img src="/img/website-icon.png" width="auto" height="20" alt="website"/>
+	</a>
+</div>
+<div style="clear:both;"></div>
+<p>Visiting Ph.D. Candidate from Nanjing University (October 2013 – January 2015). BS Atmospheric Science (2010), Lanzhou University.</p>
+<p><em>Research interests:</em> data assimilation, land surface modeling, hydrology, climate science.</p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Sagar Prasad Parajuli
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:sparajuli???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+	<a href="http://parajulisagar.wordpress.com/" target="_blank" title="Website" style="margin-right: 8px">
+		<img src="/img/website-icon.png" width="auto" height="20" alt="website"/>
+	</a>
+</div>
+<div style="clear:both;"></div>
+<p>Ph.D. Aspirant. M.Sc. Water and Environmental Engineering (2012), Masdar Institute; B.E., Tribhuvan University (2005).</p>
+<p><em>Research interests:</em> dust emission and transport, soil moisture, environmental quality.</p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Alex Resovsky
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:aresovsky???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+	<a href="https://sites.google.com/a/utexas.edu/alex-resovsky/home" target="_blank" title="Website" style="margin-right: 8px">
+		<img src="/img/website-icon.png" width="auto" height="20" alt="website"/>
+	</a>
+</div>
+<div style="clear:both;"></div>
+<p>MS Aspirant. BS (2008), University of New Mexico.</p>
+<p><em>Research interests:</em> climate change, methane emissions, GIS, river networks.</p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Ahmad A. Tavakoly
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:atavakoly???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+	<a href="https://sites.google.com/a/utexas.edu/atavakoly/" target="_blank" title="Website" style="margin-right: 8px">
+		<img src="/img/website-icon.png" width="auto" height="20" alt="website"/>
+	</a>
+</div>
+<div style="clear:both;"></div>
+<p>Ph.D. Aspirant. BE (2006), MS (2008), Iran University.</p>
+<p><em>Research interests:</em> river network, runoff, river flow and transport, hydrology.</p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Yongfei Zhang
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:yzhang???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+	<a href="https://sites.google.com/a/utexas.edu/yongfei-zhang/home" target="_blank" title="Website" style="margin-right: 8px">
+		<img src="/img/website-icon.png" width="auto" height="20" alt="website"/>
+	</a>
+</div>
+<div style="clear:both;"></div>
+<p>Ph.D. Candidate. BS Atmospheric Science (2010), Nanjing University.</p>
+<p><em>Research interests:</em> data assimilation, ensemble Kalman Filter, retrieving snow depth (and snow water equivalent) from remote sensing and land surface modeling.</p>
+
+<h2>Students Graduated</h2>
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Cédric H. David
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:cdavid???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+	<a href="http://www.ucchm.org/david/rapid.htm" target="_blank" title="Website" style="margin-right: 8px">
+		<img src="/img/website-icon.png" width="auto" height="20" alt="website"/>
+	</a>
+</div>
+<div style="clear:both;"></div>
+<p>Ph.D., Civil, Architectural and Environmental Engineering (2009), University of Texas at Austin.</p>
+<p><em>Dissertation Title:</em> “Towards River Flow Computation at the Continental Scale.”</p>
+<p>Currently: Project Scientist at the University of California, Irvine.</p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Lindsey E. Gulden
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:lgulden???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+	<a href="https://webspace.utexas.edu/leg352/www/guldenCV.htm" target="_blank" title="Website" style="margin-right: 8px">
+		<img src="/img/website-icon.png" width="auto" height="20" alt="website"/>
+	</a>
+</div>
+<div style="clear:both;"></div>
+<p>Ph.D., Geological Sciences (2009), University of Texas at Austin.</p>
+<p><em>Dissertation Title:</em> “Quantification of the Confidence that Can Be Placed in Land-Surface Model Predictions: Applications to Vegetation and Hydrologic Processes.”</p>
+<p>Currently: Research Scientist, ExxonMobil, Houston, Texas.</p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Xiaoyan Jiang
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:xjiang???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+</div>
+<div style="clear:both;"></div>
+<p>Ph.D., Geological Sciences (2010), University of Texas at Austin.</p>
+<p><em>Dissertation Title:</em> “Regional-scale Land-Climate Interactions and Their Impacts on Air Quality in a Changing Climate.”</p>
+<p>Currently: Visiting Research Scientist, National Center for Atmospheric Research.</p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Marla R. Knebl
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:mknebl???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+	<a href="http://www.linkedin.com/profile/view?id=15145663&authType=NAME_SEARCH&authToken=fnPH&locale=en_US&srchid=134316001384407102247&srchindex=2&srchtotal=2&trk=vsrp_people_res_name&trkInfo=VSRPsearchId%3A134316001384407102247%2CVSRPtargetId%3A15145663%2CVSRPcmpt%3Aprimary" target="_blank" title="LinkedIn" style="margin-right: 8px">
+		<img src="/img/linkedin-icon.png" width="auto" height="20" alt="LinkedIn"/>
+	</a>
+</div>
+<div style="clear:both;"></div>
+<p>Ph.D., Geological Sciences (2006), University of Texas at Austin.</p>
+<p><em>Dissertation Title:</em> “Regional Scale Flood Modeling Using NEXRAD Rainfall, GIS, and HEC-HMS/RAS: A Case Study for the San Antonio River Basin, Texas.”</p>
+<p>Currently: Marla R. Lowrey, University of Wisconsin.</p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Lisa H. Myer
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:lmeyer???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+	<a href="http://www.linkedin.com/profile/view?id=81956242&locale=en_US&trk=tyah&trkInfo=tas%3ALisa%20%2Cidx%3A3-1-3" target="_blank" title="LinkedIn" style="margin-right: 8px">
+		<img src="/img/linkedin-icon.png" width="auto" height="20" alt="LinkedIn"/>
+	</a>
+</div>
+<div style="clear:both;"></div>
+<p>MS Geological Sciences (2012), University of Texas at Austin.</p>
+<p><em>Thesis Topic:</em> “Quantifying the Role of Agriculture and Urbanization in the Nitrogen Cycle across Texas.”</p>
+<p>Currently: Works in Houston.</p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Enrique Rosero R
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:erosero???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+	<a href="https://webspace.utexas.edu/err449/erosero.html" target="_blank" title="Website" style="margin-right: 8px">
+		<img src="/img/website-icon.png" width="auto" height="20" alt="website"/>
+	</a>
+</div>
+<div style="clear:both;"></div>
+<p>Ph.D., Geological Sciences (2009), University of Texas at Austin.</p>
+<p><em>Dissertation Title:</em> “Evaluating Enhanced Hydrological Representations in Noah LSM over Transition Zones: An Ensemble-based Approach to Model Diagnostics.”</p>
+<p>Currently: Research Scientist, ExxonMobil, Houston, Texas.</p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Mingjie Shi
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:mshi???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+</div>
+<div style="clear:both;"></div>
+<p>Ph.D., Geological Sciences (2013), University of Texas at Austin.</p>
+<p>BS Applied Meteorology (2006), China Agricultural University; MS, Atmospheric Science (2008), Chinese Academy of Sciences.</p>
+<p><em>Dissertation Title:</em> “Simulating and Quantifying Land-surface Biogeochemical, Hydrological, and Biogeophysical Processes Using the Community Land Model Version 4.”</p>
+<p>Currently: Postdoctoral Fellow at JPL, California.</p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Hua Su
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:hsu???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+	<a href="https://www.jsg.utexas.edu/researcher/hua_su/" target="_blank" title="Website" style="margin-right: 8px">
+		<img src="/img/website-icon.png" width="auto" height="20" alt="website"/>
+	</a>
+</div>
+<div style="clear:both;"></div>
+<p>Ph.D., Geological Sciences (2009), University of Texas at Austin.</p>
+<p><em>Dissertation Title:</em> “Large-scale Snowpack Estimation Using Ensemble Data Assimilation Methodologies, Satellite Observations and Synthetic Datasets.”</p>
+<p>Currently: Research Scientist Associate at the Jackson School of Geosciences, University of Texas at Austin.</p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Qianru Zeng
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:qzeng???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+</div>
+<div style="clear:both;"></div>
+<p>MS Geological Sciences (2004), University of Texas at Austin.</p>
+<p><em>Thesis Topic:</em> “Temporal and Spatial Variability of Snow Cover as Determined from Data and Models.”</p>
+
+<h2>Students Mentored, Supervised or Sponsored</h2>
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Gang Zhang
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:gzhang???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+</div>
+<div style="clear:both;"></div>
+<p>September 2010 – August 2012, Ph.D. Aspirant. BS Atmospheric Science (2010), Lanzhou University.</p>
+<p><em>Research interests:</em> ensemble climate prediction, land-atmosphere interaction dynamics.</p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Hee Jeung Kim
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:hkim???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+</div>
+<div style="clear:both;"></div>
+<p>September 2010 – July 2011, Ph.D. Aspirant. MS Environmental Science (2003), Pusan University.</p>
+<p><em>Research interests:</em> climate change, air quality, atmospheric chemistry, climate modeling and data analysis.</p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Benjamin Wagman
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:bwagman???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+</div>
+<div style="clear:both;"></div>
+<p>June 2009 – August 2010, Ph.D. Aspirant. BA Physics with a double major in Anthropology (2009), Grinnell College.</p>
+<p><em>Research interests:</em> climate science, climate change, paleoclimate, climate modeling.</p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Yang Xue
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:yxue???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+</div>
+<div style="clear:both;"></div>
+<p>September 2009 – January 2010, Ph.D. Aspirant. MS Geophysics (2009), University Stuttgart.</p>
+<p><em>Research interests:</em> geodesy, geophysics, climate science, hydrology.</p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Amanda Barr
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:abarr???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+</div>
+<div style="clear:both;"></div>
+<p>Ph.D. Aspirant, BS Astronomy (2003), University of Texas at Austin; MS Environmental Science (2006), Texas A&M University at Corpus Christi.</p>
+<p><em>Research interests:</em> global warming, data analysis.</p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Sarah Doyle
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:sdoyle???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+</div>
+<div style="clear:both;"></div>
+<p>BS Chemistry (2003), University of Texas at Austin.</p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Jacqueline (Jacki) Kinney
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:jkinney???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+</div>
+<div style="clear:both;"></div>
+<p>Ph.D. Aspirant. BS Meteorology (2003), Texas A&M University; MS Meteorology (2005), Texas A&M University.</p>
+<p><em>Research interests:</em> atmospheric radiation, climatology.</p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Vaidya Varada
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:vvarada???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+</div>
+<div style="clear:both;"></div>
+<p>September 2002 – May 2003, MS Physics, University of Pune, Pune, India; MTech Atmospheric Physics, University of Pune, Pune, India.</p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Laurel (Lelan) Anstead
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:lanstead???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+</div>
+<div style="clear:both;"></div>
+<p>MS Candidate. BA Asian Area Studies (1987), BS Microbiology (1988), University of Illinois, Urbana. MA Education (1993), Illinois State University.</p>
+<p><em>Research interests:</em> environmental policy, air quality policy.</p>
+
+<h2>Visiting Scholars</h2>
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Xiaodan Guan
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:xguan???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+</div>
+<div style="clear:both;"></div>
+<p>Visiting Ph.D. student, Lanzhou University, China. 9 September, 2009 – 8 September 2011.</p>
+<p><em>Research interests:</em> land-atmosphere interaction, land surface modeling, semi-arid regions.</p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Ruiping Guo
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:rguo???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+</div>
+<div style="clear:both;"></div>
+<p>Institute of Geography, Chinese Academy of Sciences, Beijing, China. 12 September, 2008 – 12 September, 2009.</p>
+<p><em>Research interests:</em> climate modeling, crop modeling.</p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Jingbing Xiao
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:jxiao???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+</div>
+<div style="clear:both;"></div>
+<p>Cielo Wind Power Company, Austin, TX, USA. 1 August, 2005 – 31 July, 2006.</p>
+<p><em>Research interests:</em> “Forecasting Local-scale Wind Speed and Direction in the Atmospheric Boundary Layer Using Weather Research and Forecasting Model.”</p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Xinping Zhang
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:xzhang???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+</div>
+<div style="clear:both;"></div>
+<p>Hunan Normal University, Changsha, China. 6 September, 2005 – 24 February, 2006.</p>
+<p><em>Research interests:</em> “Stable Water Isotopes in the Community Land Model.”</p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Jie Cheng
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:jcheng???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+</div>
+<div style="clear:both;"></div>
+<p>China University of Geosciences, Beijing, China. November 2003 – April 2004.</p>
+<p><em>Research interests:</em> “Proxy data and modeling of the Holocene climate in the source area of the Yellow River, Northeast Tibetan Plateau.”</p>
+
+<h2>Visitors</h2>
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Jinjun Ji
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:jji???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+</div>
+<div style="clear:both;"></div>
+<p>Key Laboratory of Regional Climate-Environment Research for Temperate Asia (RCE-TEA), Institute of Atmospheric Physics, Chinese Academy of Sciences, Beijing, China. 6-9 October, 2010.</p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Youlong Xia
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:yxia???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+</div>
+<div style="clear:both;"></div>
+<p>NCEP/EMC, NOAA. 23-27 February, 2009.</p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Zhuguo Ma
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:zma???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+	<a href="http://mazg.tea.ac.cn/index1.htm" target="_blank" title="Website" style="margin-right: 8px">
+		<img src="/img/website-icon.png" width="auto" height="20" alt="website"/>
+	</a>
+</div>
+<div style="clear:both;"></div>
+<p>Key Laboratory of Regional Climate-Environment Research for Temperate Asia (RCE-TEA), Institute of Atmospheric Physics, Chinese Academy of Sciences, Beijing, China. 27 October-23 November, 2008.</p>
+<p><em>Seminars:</em> “North China Droughts,” “Coordinated Flux Measurements in Arid and Semi-Arid Regions in North China.”</p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Fei Chen
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:fchen???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+</div>
+<div style="clear:both;"></div>
+<p>Scientist III, National Center for Atmospheric Research. 15-20 October, 2006.</p>
+<p><em>Seminars:</em> “Land Surface Modeling In Numerical Weather Prediction Models,” “Challenges In Developing An Integrated Mesoscale Urban Modeling System” and “Investigating Mesoscale Land-Atmosphere Interactions And Their Impacts On Precipitation Under The NCAR Water Cycle Across Scales Program.”</p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Robert E. Dickinson
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:rdickinson???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+</div>
+<div style="clear:both;"></div>
+<p>Georgia Institute of Technology. 22-24 March, 2006.</p>
+<p><em>Seminars:</em> “Issues in modeling canopy radiation in climate models (latest ideas)” and “Dynamic vegetation and carbon as a component of climate prediction.”</p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Alan Robock
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:arobock???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+	<a href="http://www.envsci.rutgers.edu/~robock/" target="_blank" title="Website" style="margin-right: 8px">
+		<img src="/img/website-icon.png" width="auto" height="20" alt="website"/>
+	</a>
+</div>
+<div style="clear:both;"></div>
+<p>Rutgers University. 1-4 March, 2006.</p>
+<p><em>Seminars:</em> “Comparing Climatic Response to Low and High Latitude Volcanic Eruptions” and “Using Soil Moisture Observations to Study Climate Variations, to Evaluate Climate Models, and as Ground Truth for Remote Sensing.”</p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Soroosh Sorooshian
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:ssorooshian???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+	<a href="http://www.eng.uci.edu/users/soroosh-sorooshian" target="_blank" title="Website" style="margin-right: 8px">
+		<img src="/img/website-icon.png" width="auto" height="20" alt="website"/>
+	</a>
+</div>
+<div style="clear:both;"></div>
+<p>University of California, Irvine. 1-2 May, 2005.</p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Robert E. Dickinson
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:rdickinson???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+</div>
+<div style="clear:both;"></div>
+<p>Georgia Institute of Technology. 16-18 November, 2004.</p>
+<p><em>Seminar:</em> “Including Land in a Climate Model.”</p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Rick Lawford
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:rlawford???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+</div>
+<div style="clear:both;"></div>
+<p>NOAA Program Manager and Director of US CCSP GWCP Office. 5-26 February, 2003.</p>
+<p><em>Seminar:</em> “National and International Climate and Water Programs: Issues and Opportunities.”</p>
+
+<h2>Former Postdoctoral Fellows or Research Associates</h2>
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Hua Su
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:hsu???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+	<a href="https://www.jsg.utexas.edu/researcher/hua_su/" target="_blank" title="Website" style="margin-right: 8px">
+		<img src="/img/website-icon.png" width="auto" height="20" alt="website"/>
+	</a>
+</div>
+<div style="clear:both;"></div>
+<p>Ph.D., University of Texas at Austin (2009).</p>
+<p><em>Research interests:</em> land data assimilation, snow-climate interaction, regional climate modeling.</p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Mingxing Li
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:mli???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+</div>
+<div style="clear:both;"></div>
+<p>Ph.D., Chinese Academy of Sciences (2010).</p>
+<p><em>Research interests:</em> soil moisture, land surface modeling, groundwater-atmosphere interaction (April 2012 to March 2013).</p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Cédric H. David
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:cdavid???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+	<a href="http://www.ucchm.org/david/rapid.htm" target="_blank" title="Website" style="margin-right: 8px">
+		<img src="/img/website-icon.png" width="auto" height="20" alt="website"/>
+	</a>
+</div>
+<div style="clear:both;"></div>
+<p>Ph.D., University of Texas at Austin (2009).</p>
+<p><em>Research interests:</em> GIS, hydrological modeling, river routing, parallel computing (September 2009 to August 2012).</p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Zhongfeng Xu
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:zx???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+</div>
+<div style="clear:both;"></div>
+<p>Ph.D., Nanjing University (2008).</p>
+<p><em>Research interests:</em> regional climate modeling and dynamical climate downscaling (January 2011 to December 2011).</p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Ying Han
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:yhan???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+</div>
+<div style="clear:both;"></div>
+<p>Ph.D., Nanjing University (2008).</p>
+<p><em>Research interests:</em> regional dust modeling (October 2011 to December 2011).</p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Seungbum (Bryan) Hong
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:shong???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+</div>
+<div style="clear:both;"></div>
+<p>Ph.D., University of South Carolina, Columbia, South Carolina (2008).</p>
+<p><em>Research interests:</em> remote sensing data analysis, data image processing, land surface modeling, hydrology (September 2008 to February 2011).</p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Guo-Yue Niu
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:gniu???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+	<a href="http://b2science.org/earth/people/res/niu" target="_blank" title="Website" style="margin-right: 8px">
+		<img src="/img/website-icon.png" width="auto" height="20" alt="website"/>
+	</a>
+</div>
+<div style="clear:both;"></div>
+<p>Ph.D., Chinese Academy of Sciences, Beijing, China (1996).</p>
+<p><em>Research interests:</em> Climate Modeling, Land Surface Modeling, Interaction of Terrestrial and Atmospheric Hydrological Processes (June 1998 to August 2009).</p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Jessica B. T. Rasmussen
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:jrasmussen???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+</div>
+<div style="clear:both;"></div>
+<p>Ph.D., The University of New Mexico, Albuquerque, New Mexico (2006).</p>
+<p><em>Research interests:</em> isotopic methods, caves, climate change, late Holocene climate variability (February 2007 to February 2009).</p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Jeff Chun-Fung Lo
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:jlo???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+</div>
+<div style="clear:both;"></div>
+<p>Ph.D., The Hong Kong University of Science and Technology (2006).</p>
+<p><em>Research interests:</em> Regional Climate Downscaling, Computer Modeling of Land/Sea Breezes, Air Quality (March 2006 to March 2008).</p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Yongsheng Xu
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:yxu???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+</div>
+<div style="clear:both;"></div>
+<p>Ph.D., University of Rhode Island (2006).</p>
+<p><em>Research interests:</em> physical oceanography, satellite data analysis, land surface hydrological modeling (October 2007 to October 2008).</p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Xuemei Wang
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:xwang???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+</div>
+<div style="clear:both;"></div>
+<p>Ph.D., Chinese Academy of Sciences (1999).</p>
+<p>Visiting from Zhongshan University, Guangzhou, China. September 2006 to February 2007.</p>
+<p><em>Research interests:</em> Air Quality, BVOC Emissions, Climate Change, Large Eddy Simulations, Numerical Modeling.</p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Yiwen Xu
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:yxu???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+</div>
+<div style="clear:both;"></div>
+<p>Ph.D., University of Iowa (1998).</p>
+<p><em>Research interests:</em> Air Quality (November 2004 to September 2005).</p>
