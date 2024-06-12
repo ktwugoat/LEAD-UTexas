@@ -24,7 +24,7 @@ description: "?????????????????????????????"
 # # List of links in the navigation bar
 
 navbar-links:
-  # About: ""
+  Home: ""
   People: 
    - Current: "people/current"
    - Alumni: "people/alumni"
@@ -38,6 +38,7 @@ navbar-links:
    - ?Data: "research/data"
   Publications: "publication"
   Teaching: "teaching"
+  About: ""
   # ?Presentations: "presentation"
   # ?Photos: "photos"
   # Videos: "videos"
