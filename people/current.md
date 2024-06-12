@@ -4,7 +4,7 @@ title: LEAD Group Members
 subtitle: 
 ---
 
-<p id="Wani"></p>
+<p id="Liang"></p>
 
 <b><span style="font-size: 25px !important; color: #BD0026;">Faculty</span></b>
 <hr>
@@ -21,7 +21,7 @@ subtitle:
 	<a href="https://twitter.com/zlyang/" target="_blank" title="zlyang X" style="margin-right: 8px">
 		<img src="/img/X_icon.svg" width="auto" height="20" alt="X"/>
 	</a>
-<span style="font-size: 14px !important; color: #555;"><a href="/pdfs/mockCV.pdf" target="_blank">CV</a> | <a href="http://scholar.google.com/citations?user=ZncpGB0AAAAJ&hl=en" target="_blank" >Google Scholar</a> </span>
+<span style="font-size: 14px !important; color: #555;"><a href="/pdfs/mockCV.pdf" target="_blank">CV</a> | <a href="http://scholar.google.com/citations?user=ZncpGB0AAAAJ&hl=en" target="_blank" >Google Scholar</a>  | <a href="https://www.jsg.utexas.edu/researcher/zong-liang_yang" target="_blank" >Web</a> </span>
 
 </div>
 <br>
@@ -44,6 +44,14 @@ Dr. Zong-Liang Yang is a Professor in the Department of Earth and Planetary Scie
 <b><span style="font-size: 25px !important; color: #BD0026;">Graduate students</span></b>
 <hr>
 
+
+<p id="Chien"></p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Chie-Chen Lee
+</div>
+
+
 <p id="Koutian"></p>
 
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
@@ -59,7 +67,7 @@ Dr. Zong-Liang Yang is a Professor in the Department of Earth and Planetary Scie
 	<a href="https://twitter.com/ktwu01/" target="_blank" title="ktwu01 X" style="margin-right: 8px">
 		<img src="/img/X_icon.svg" width="auto" height="20" alt="X"/>
 	</a>
-<span style="font-size: 14px !important; color: #555;"><a href="/pdfs/mockCV.pdf" target="_blank">CV</a> | <a href="https://scholar.google.com/citations?hl=en&user=s9w1k-cAAAAJ" target="_blank" >Google Scholar</a> </span>
+<span style="font-size: 14px !important; color: #555;"><a href="/pdfs/mockCV.pdf" target="_blank">CV</a> | <a href="https://scholar.google.com/citations?hl=en&user=s9w1k-cAAAAJ" target="_blank" >Google Scholar</a>  | <a href="https://ktwu01.github.io/" target="_blank" >Web</a> </span>
 </div>
 
 <br>
@@ -78,47 +86,6 @@ Dr. Zong-Liang Yang is a Professor in the Department of Earth and Planetary Scie
 <hr>
 
 
-<p id="Nicky"></p>
-<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
-	Nicolette Boesen
-</div>
-<div style="font-size: 15px !important; color: #555; float:left;">
-	<a href="mailto:nickyboesen95@gmail.com"  target="_top" title="nickyboesen95@gmail.com" style="margin-right: 8px">
-		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
-	</a>
-</div>
-<br>
-
-<img src="/people/images/Nicky.png" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;"> Nicolette(Nicky) is a post-master research assistant in the Cocoan lab. She joined in the summer of 2019. She received her BS in cognitive and clinical neuropsychology and her MS in neurosciences from VU University Amsterdam. She is interested in a broad range of research topics within the fields of psychology and neurosciences and hopes to acquire new skills and develop herself within the research field.</span>
-
-<p>
-	<span style="font-size: 14px !important; color: #555;"><a href="/pdfs/CV_Nicky_201906.pdf" target="_blank">CV</a></span>
-</p>	
-
-<br><br><br><br>
-
-<p id="Byeol"></p>
-<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
-	Byeol Kim
-</div>
-<div style="font-size: 15px !important; color: #555; float:left;">
-	<a href="mailto:roadndream@naver.com"  target="_top" title="roadndream@naver.com" style="margin-right: 8px">
-		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
-	</a>
-	<a href="https://github.com/ByeolEtoileKim/" title="byeol github" target="_blank" style="margin-right: 8px">
-		<img src="/img/github-brands.png" width="auto" height="20" alt="github"/>
-	</a>
-	<a href="https://twitter.com/ByeolEtoileKim/" title="byeol twitter" target="_blank" style="margin-right: 8px">
-		<img src="/img/twitter-icon.png" width="auto" height="20" alt="twitter"/>
-	</a> 
-	
-</div>
-<br>
-
-<img src="/people/images/KimB.jpg" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">Byeol joined the Cocoan lab as a graduate student since the 2017 summer and received a Master's degree 2019 summer. She will stay in the lab as a post-master research assistant for a while. She majored in astronomy and psychology at Yonsei University. She is interested in the neural mechanisms underlying the effects of social contexts and factors on subjective pain. She is currently working on a project developing computational models for the dynamics of internal thoughts. </span>
-
 <br><br><br><br>
 
 
@@ -134,49 +101,50 @@ Dr. Zong-Liang Yang is a Professor in the Department of Earth and Planetary Scie
 <br>
 <br>
 
+
 <b><span style="font-size: 25px !important; color: #BD0026;">Collaborators</span></b>
 <hr>
 <span style="font-size: 15px !important; color: #0055A9;">Within CNIR</span>
 
-<li><span style="font-size: 15px !important; color: #555;">Dr. Yubu Lee, Research professor: Affective computing, fMRI data analysis, facial expression analyses</span></li>
+<li><span style="font-size: 15px !important; color: #555;">Dr. AAA BBB, Research professor: AAA BBB</span></li>
 
-<li><span style="font-size: 15px !important; color: #555;">Dr. Eunha Baeg, Research professor: Nonhuman primate fMRI</span></li>
+<li><span style="font-size: 15px !important; color: #555;">Dr. AAA BBB, Research professor: AAA BBB</span></li>
 
-<li><span style="font-size: 15px !important; color: #555;">Bo-yong Park (PhD student) and Hyunjin Park (Professor at Electronic and Electrical Engineering, SKKU, <a href="https://www.sites.google.com/site/medicalimageprocessinglab/home">MIP lab</a>): Projects using open-source, large-scale data (named Big Pain Project)</span></li>
+<li><span style="font-size: 15px !important; color: #555;">AAA BBB (PhD student) and AAA BBB (Professor at Electronic and Electrical Engineering, SKKU, <a href="https://www.sites.google.com/site/medicalimageprocessinglab/home">AAA BBB lab</a>): Projects using AAA BBB (named AAA BBB Project)</span></li>
 
 <br>
 <span style="font-size: 15px !important; color: #0055A9;">Within SKKU</span>
 
-<li><span style="font-size: 15px !important; color: #555;">Sungmin Cha (PhD student), Junha Jeon (undergrad), Juyeon Heo (MS student), and Taesup Moon (Professor at Electronic and Electrical Engineering, SKKU, <a href="http://mind.skku.edu">M.IN.D. lab</a>): Developing fMRI-based pain markers using deep-learning algorithms (named Deep Pain Project)</span></li>
+<li><span style="font-size: 15px !important; color: #555;">AAA BBB (PhD student), AAA BBB (undergrad), AAA BBB (MS student), and AAA BBB (Professor at Electronic and Electrical Engineering, SKKU, <a href="http://mind.skku.edu">AAA BBB lab</a>): Developing AAA BBB (named AAA BBB Project)</span></li>
 
 <br>
 <span style="font-size: 15px !important; color: #0055A9;">Outside of SKKU</span>
 
-<li><span style="font-size: 15px !important; color: #555;">Jihoon Han and Yongseok Yoo (Professor in the department of Electronics Engineering at Incheon National University, <a href="http://brain.inu.ac.kr">Brain & Information Lab</a>): Modeling thoughts and emotions using natural language procesing and network modeling</span></li>
+<li><span style="font-size: 15px !important; color: #555;">AAA BBB and AAA BBB (Professor in the department of Electronics Engineering at Incheon National University, <a href="http://brain.inu.ac.kr">AAA BBB Lab</a>): Modeling AAA BBB</span></li>
 
-<li><span style="font-size: 15px !important; color: #555;">Woo-Young Ahn (Professor in the department of Psychology at Seoul National University, <a href="https://ccs-lab.github.io">Computational Clinical Science Laboratory</a>): Computational modeling of pain processing</span></li>
+<li><span style="font-size: 15px !important; color: #555;">AAA BBB (Professor in the department of Psychology at Seoul National University, <a href="https://ccs-lab.github.io">AAA BBB Laboratory</a>): Computational modeling of AAA BBB</span></li>
 
 
 <br>
 <span style="font-size: 15px !important; color: #0055A9;">International</span>
 
-<li><span style="font-size: 15px !important; color: #555;">Tor Wager et al. (My PhD advisor, University of Colorado Boulder, <a href="http://canlabweb.colorado.edu/">CAN lab</a>): Various projects</span></li>
+<li><span style="font-size: 15px !important; color: #555;">AAA BBB et al. (My PhD advisor, University of Colorado Boulder, <a href="http://canlabweb.colorado.edu/">AAA BBB lab</a>): Various projects</span></li>
 
-<li><span style="font-size: 15px !important; color: #555;">Liz Losin (University of Miami, <a href="http://www.losinlab.org">SCN lab</a>): The ethnicity effects on pain processing in the brain </span></li>
+<li><span style="font-size: 15px !important; color: #555;">AAA BBB (University of Miami, <a href="http://www.losinlab.org">AAA BBB lab</a>): The AAA BBB effects on AAA BBB</span></li>
 
-<li><span style="font-size: 15px !important; color: #555;">Alex Shackman (University of Maryland, <a href="http://shackmanlab.org">Shackman lab</a>): Cognitive control, negative emotion, and pain in aMCC</span></li>
+<li><span style="font-size: 15px !important; color: #555;">AAA BBB (University of Maryland, <a href="http://shackmanlab.org">AAA BBB lab</a>): AAA BBB</span></li>
 
-<li><span style="font-size: 15px !important; color: #555;">Pierre Rainville et al. (Universitaire de Montréal, <a href="http://rainville.criugm.qc.ca/wordpress/?page_id=52&lang=en">LaNeP3</a>): After-effect of cognitive control on pain</span></li>
+<li><span style="font-size: 15px !important; color: #555;">AAA BBB et al. (Universitaire de Montréal, <a href="http://rainville.criugm.qc.ca/wordpress/?page_id=52&lang=en">AAA BBB</a>): AAA BBB</span></li>
 
-<li><span style="font-size: 15px !important; color: #555;">Jessica Andrews-Hanna (University of Arizona, <a href="http://www.u.arizona.edu/~jandrewshanna/Jessica_Andrews-Hanna/Home.html">NET lab</a>): Free-association semantic task </span></li>
+<li><span style="font-size: 15px !important; color: #555;">AAA BBB (University of Arizona, <a href="http://www.u.arizona.edu/~jandrewshanna/Jessica_Andrews-Hanna/Home.html">AAA BBB lab</a>): AAA BBB task </span></li>
 
-<li><span style="font-size: 15px !important; color: #555;">Naomi Eisenberger (UCLA, <a href="https://sanlab.psych.ucla.edu">SAN lab</a>) and Matthew Lieberman (UCLA, <a href="http://www.scn.ucla.edu">SCN lab</a>): Social rejection </span></li>
+<li><span style="font-size: 15px !important; color: #555;">AAA BBB (UCLA, <a href="https://sanlab.psych.ucla.edu">AAA BBB lab</a>) and AAA BBB (UCLA, <a href="http://www.scn.ucla.edu">AAA BBB lab</a>): AAA BBB</span></li>
 
 
 <br><br><br><br>
 
 
-<b><span style="font-size: 20px !important; color: #0055A9;">We're hiring!</span></b> <span style="font-size: 16px !important;">(for more imforation, please see [here](/jobs/))</span>
+<!-- <b><span style="font-size: 20px !important; color: #0055A9;">We're hiring!</span></b> <span style="font-size: 16px !important;">(for more imforation, please see [here](/jobs/))</span>
 
 <!-- <br><br><br><br><br><br>
 
