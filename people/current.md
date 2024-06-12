@@ -21,6 +21,8 @@ Dr. Zong-Liang Yang
 	<a href="https://twitter.com/zlyang/" target="_blank" title="zlyang X" style="margin-right: 8px">
 		<img src="/img/X_icon.svg" width="auto" height="20" alt="X"/>
 	</a>
+<span style="font-size: 14px !important; color: #555;"><a href="/pdfs/CV_Woo_April2019.pdf" target="_blank">CV</a> | <a href="http://scholar.google.com/citations?user=ZncpGB0AAAAJ&hl=en" target="_blank" >Google Scholar</a> </span>
+
 </div>
 <br>
 <img src="/people/images/Liang.jpg" width="150" height="auto" align="left" hspace="20" />
@@ -36,8 +38,6 @@ At UT Austin, Dr. Yang leads a dynamic research group that tackles pressing envi
 
 Before joining the faculty at UT Austin, Dr. Yang was a postdoc and then research faculty at the University of Arizona. He holds a Ph.D. in Atmospheric Sciences from Macquarie University and an M.S. in Meteorology from the University of Melbourne in Australia. 
 </span>
-
-<span style="font-size: 14px !important; color: #555;"><a href="/pdfs/CV_Woo_April2019.pdf" target="_blank">CV</a> | <a href="http://scholar.google.com/citations?user=ZncpGB0AAAAJ&hl=en" target="_blank" >Google Scholar</a> </span>
 
 <br>
 
