@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "https://ktwugoat.github.io/"
+url: "https://lead-utexas.github.io/"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -24,8 +24,8 @@ description: "?????????????????????????????"
 # # List of links in the navigation bar
 
 navbar-links:
-  ?About: ""
-  ?People: 
+  # About: ""
+  People: 
    - Current: "people/current"
    - Alumni: "people/alumni"
   ?Prospective Students: ""
@@ -70,13 +70,9 @@ navbar-links:
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  # name: Eunsang Cho
-  # email: "eunsangcho86@gmail.com"
-  # github: echo-hydro    # eg. daattali
-  # twitter: Eunsang_UNH   # eg. daattali
   name: Dr. Zong-Liang Yang
   email: "liang@jsg.utexas.edu"
-  github: ???????    # eg. daattali
+  # github: ???????    # eg. daattali
   twitter: zlyang   # eg. daattali
 
 # Select which links to show in the footer
@@ -93,7 +89,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "echo-hydro.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "lead-utexas.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
