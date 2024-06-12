@@ -26,17 +26,17 @@ subtitle:
 </div>
 <br>
 <img src="/people/images/Liang.jpg" width="150" height="auto" align="left" hspace="20" />
+
 <span style="font-size: 15px !important; color: #555;">
+Dr. Zong-Liang Yang is a Professor in the Department of Earth and Planetary Sciences at The University of Texas at Austin, where he holds the prestigious John A. and Katherine G. Jackson Chair in Earth System Sciences. With a distinguished career in the field of climate and environmental sciences, Dr. Yang’s research focuses on understanding and modeling land surface processes and their interactions with the atmosphere.</span>
 
-Dr. Zong-Liang Yang is a Professor in the Department of Earth and Planetary Sciences at The University of Texas at Austin, where he holds the prestigious John A. and Katherine G. Jackson Chair in Earth System Sciences. With a distinguished career in the field of climate and environmental sciences, Dr. Yang’s research focuses on understanding and modeling land surface processes and their interactions with the atmosphere.
+<span style="font-size: 15px !important; color: #555;">His work spans a wide array of topics including ecohydrology, climate modeling, and the dynamics of land-atmosphere interactions. Dr. Yang is particularly renowned for his contributions to the development and application of advanced land surface models, such as the Noah-MP model, which are pivotal in improving weather forecasts, climate predictions, and hydrological simulations.</span>
 
-His work spans a wide array of topics including ecohydrology, climate modeling, and the dynamics of land-atmosphere interactions. Dr. Yang is particularly renowned for his contributions to the development and application of advanced land surface models, such as the Noah-MP model, which are pivotal in improving weather forecasts, climate predictions, and hydrological simulations.
+<span style="font-size: 15px !important; color: #555;">Dr. Yang’s research has been widely published in leading scientific journals, and he has been an active participant and organizer of numerous international conferences and workshops. His collaborations with researchers and institutions around the globe underscore his commitment to advancing our understanding of environmental processes and their impact on climate.</span>
 
-Dr. Yang’s research has been widely published in leading scientific journals, and he has been an active participant and organizer of numerous international conferences and workshops. His collaborations with researchers and institutions around the globe underscore his commitment to advancing our understanding of environmental processes and their impact on climate.
+<span style="font-size: 15px !important; color: #555;">At UT Austin, Dr. Yang leads a dynamic research group that tackles pressing environmental challenges through innovative modeling approaches and interdisciplinary collaboration. His dedication to mentoring the next generation of scientists and his active engagement in the scientific community make him a leading figure in his field.</span>
 
-At UT Austin, Dr. Yang leads a dynamic research group that tackles pressing environmental challenges through innovative modeling approaches and interdisciplinary collaboration. His dedication to mentoring the next generation of scientists and his active engagement in the scientific community make him a leading figure in his field.
-
-Before joining the faculty at UT Austin, Dr. Yang was a postdoc and then research faculty at the University of Arizona. He holds a Ph.D. in Atmospheric Sciences from Macquarie University and an M.S. in Meteorology from the University of Melbourne in Australia. 
+<span style="font-size: 15px !important; color: #555;">Before joining the faculty at UT Austin, Dr. Yang was a postdoc and then research faculty at the University of Arizona. He holds a Ph.D. in Atmospheric Sciences from Macquarie University and an M.S. in Meteorology from the University of Melbourne in Australia. 
 </span>
 
 <br>
@@ -57,7 +57,11 @@ Before joining the faculty at UT Austin, Dr. Yang was a postdoc and then researc
 <br>
 
 <img src="/people/images/0KW_Profile_4_3.jpg" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">Koutian Wu is a first-year Ph.D. student at the LEAD Group. He previously graduated from the School of Earth and Space Sciences at the University of Science and Technology of China (USTC), Class of 2020. He is interested in enhancing the capability of land-climate models, and ultimately wants to combine in-situ measurements, remote sensing, and kilometer-scale modeling to uncover and tackle emerging climate challenges for humanity. He is currently working on integrating rock moisture and wood moisture into the hydrological cycle using the Noah-MP model. He attended the AGU Fall Meeting 2023 and attended the poster session as the first author. Additionally, he has presented case studies as an undergraduate representative at conferences like the Top Innovative Talents Symposium (Tsinghua University) and has spoken at the USTC seminar hosted by the National Natural Science Foundation of China. Koutian Wu has been awarded the "Outstanding Undergraduate Honor" and the title of "Excellent Graduate" by USTC.</span>
+<span style="font-size: 15px !important; color: #555;">Koutian Wu is a first-year Ph.D. student in the LEAD Group at UT Austin. He is interested in enhancing the capabilities of land-climate models, and ultimately aims to combine kilometer-scale modeling, in-situ measurements, and remote sensing to address emerging climate challenges. Currently, Koutian is working on integrating rock moisture and wood moisture into the hydrological cycle using the Noah-MP model.</span>
+
+<span style="font-size: 15px !important; color: #555;">Koutian presented his undergraduate work at the AGU 2023, where he was the first author in a poster session. He has presented case studies at the Top Innovative Talents Symposium at Tsinghua University.</span>
+
+<span style="font-size: 15px !important; color: #555;">Koutian graduated from the School of Earth and Space Sciences at the University of Science and Technology of China (USTC) in 2024. He has been recognized with the "Outstanding Undergraduate Honor" and the title of "Excellent Graduate" by USTC.</span>
 
 <br><br><br><br>
 
