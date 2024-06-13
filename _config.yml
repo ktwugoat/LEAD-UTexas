@@ -38,11 +38,13 @@ navbar-links:
    - ?Data: "research/data"
   Publications: "publication"
   Teaching: "teaching"
-  About: ""
+  About: 
+   - Contact/Inquiries: "about/contact"
+   - Announcements: "about/announcements"
+   - Photos: "about/photos"
   # ?Presentations: "presentation"
   # ?Photos: "photos"
   # Videos: "videos"
-  #CV: "https://drive.google.com/file/d/1uZrtJP8w9CClUFzx9vthnPH6lLDAwjTo/view?usp=sharing"
 
 # navbar-links:
 #   About: ""
