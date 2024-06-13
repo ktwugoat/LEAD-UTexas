@@ -28,9 +28,9 @@ navbar-links:
   People: 
    - Current: "people/current"
    - Alumni: "people/alumni"
-  ?Prospective Students: ""
-  # ?News: "news/2024"
-  # - 2020: "news/2020"
+  Opportunities:
+  - ?Prospective Students: "opportunities/ProStu"
+  - ?Jobs: "opportunities/Jobs"
   Research:
    - ?Projects: "research/overview"
    - ?Projects: "research/projects"
@@ -42,6 +42,7 @@ navbar-links:
    - Contact/Inquiries: "about/contact"
    - Announcements: "about/announcements"
    - Photos: "about/photos"
+   - Videos: "about/videos"
   # ?Presentations: "presentation"
   # ?Photos: "photos"
   # Videos: "videos"
