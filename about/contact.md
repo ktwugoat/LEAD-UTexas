@@ -1,62 +1,26 @@
 ---
 layout: page
-title: Photos
+title: Contact/Inquiries
 subtitle: 
 ---
-<span style="font-size: 17px !important; color: #0055A9;">International Symposium on Snow 2022 at Davos, Switzerland (+ Excursion at Stillberg) </span>
 
-<img src="/photos/202209_present.jpg" width="700" align="center" hspace="5" />
+## Contact
 
-<img src="/photos/IMG_7876.jpg" width="700" align="center" hspace="5" />
+<div class="entry-content">
+    <p>Dr. Zong-Liang Yang<br />
+    <a href="https://www.jsg.utexas.edu" target="_blank">Department of Geological Sciences</a><br />
+    <a href="https://www.jsg.utexas.edu" target="_blank">Jackson School of Geosciences</a><br />
+    <a href="https://www.utexas.edu" target="_blank">University of Texas at Austin</a><br />
+    Austin, TX 78712-1692<br />
+    Phone: +1 512 471 3824<br />
+    E-mail: <a href="mailto:liang@jsg.utexas.edu">liang@jsg.utexas.edu</a></p>
+</div>
 
-<img src="/photos/IMG_7890.jpg" width="700" align="center" hspace="5" />
-
-<img src="/photos/IMG_8049.jpg" width="700" align="center" hspace="5" />
-
-<img src="/photos/IMG_8051.jpg" width="700" align="center" hspace="5" />
-
-<img src="/photos/IMG_8072.jpg" width="700" align="center" hspace="5" />
-
-<img src="/photos/IMG_8235.jpg" width="700" align="center" hspace="5" />
-
-<img src="/photos/IMG_8201.jpg" width="700" align="center" hspace="5" />
-
-<span style="font-size: 20px !important; color: #0055A9;">Finally, my cap and gown have arrived! Here are graduation photos with Hyunglok & Eunbi at the UNH Durham campus (credit: Hyunglok Kim)</span>
-
-<img src="/photos/Graduation4.PNG" width="700" align="center" hspace="5" />
-
-<img src="/photos/Graduation1.JPG" width="700" align="center" hspace="5" />
-
-<img src="/photos/Graduation2.JPG" width="700" align="center" hspace="5" />
-
-<img src="/photos/Graduation5.PNG" width="700" align="center" hspace="5" />
-
-<img src="/photos/Graduation3.JPG" width="700" align="center" hspace="5" />
-
-<b><span style="font-size: 20px !important; color: #0055A9;"><a href="https://sossusvlei.com/en/namib-dunes/dune-45/">Dune 45 Sossusvlei Namib Desert</a>, Namibia, Africa <i></i></span></b>
-
-<img src="/photos/Namibia.JPG" width="600" align="center" hspace="5" />
-
-<img src="/photos/Namibia0.JPG" width="600" align="center" hspace="5" />
-
-<img src="/photos/Namibia1.JPG" width="600" align="center" hspace="5" />
-
-<img src="/photos/Namibia2.JPG" width="600" align="center" hspace="5" />
-
-<img src="/photos/Namibia3.JPG" width="600" align="center" hspace="5" />
-
-<b><span style="font-size: 20px !important; color: #0055A9;"><a href="https://en.wikipedia.org/wiki/Etosha_National_Park">Etosha National Park</a>, Namibia, Africa <i></i></span></b>
-
-<img src="/photos/Etosha0.JPG" width="600" align="center" hspace="5" />
-
-<img src="/photos/Etosha1.JPG" width="600" align="center" hspace="5" />
-
-<img src="/photos/Etosha2.JPG" width="600" align="center" hspace="5" />
-
-<img src="/photos/Etosha3.JPG" width="600" align="center" hspace="5" />
-
-<img src="/photos/Etosha4.JPG" width="600" align="center" hspace="5" />
-
-<img src="/photos/Etosha5.JPG" width="600" align="center" hspace="5" />
-
-<img src="/photos/Etosha6.JPG" width="600" align="center" hspace="5" />
+## Location
+<div class="entry-content">
+    <p>Office: POB, JGB 5.220DA<br />
+    Mailcode: C1100</p>   
+    <iframe loading="lazy" style="border: 0;" 
+        src="https://www.google.com/maps/place/Jackson+School+of+Geosciences/@30.2858827,-97.7357159,16z/data=!3m1!4b1!4m6!3m5!1s0x8644b59b01042263:0x9f7cdb06ec35477a!8m2!3d30.2858827!4d-97.7357159!16zL20vMGd0bncy?entry=ttu" 
+        width="600" height="450" frameborder="0"></iframe>
+</div>
