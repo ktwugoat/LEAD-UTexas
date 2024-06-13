@@ -25,25 +25,29 @@ description: "?????????????????????????????"
 
 navbar-links:
   Home: ""
-  People: 
-   - Current: "people/current"
-   - Alumni: "people/alumni"
+   
   Opportunities:
   - ?Prospective Students: "opportunities/ProStu"
   - ?Jobs: "opportunities/Jobs"
+
+  People: 
+   - Current: "people/current"
+   - Alumni: "people/alumni"
+
   Research:
-   - ?Projects: "research/overview"
+   - ?Publications: "research/publications"
+   - ?Overview: "research/overview"
    - ?Projects: "research/projects"
    - ?Codes: "research/models"
    - ?Data: "research/data"
-  Publications: "publication"
+   - ?Lecture Videos: "research/lectures"
+
   Teaching: "teaching"
   About: 
    - Contact/Inquiries: "about/contact"
    - ?Work Ethic: "about/WorkEthic"
    - ?Announcements: "about/announcements"
    - Photos: "about/photos"
-   - ?Videos: "about/videos"
   # ?Presentations: "presentation"
   # ?Photos: "photos"
   # Videos: "videos"
