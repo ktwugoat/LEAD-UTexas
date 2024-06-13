@@ -50,7 +50,7 @@ Dr. Zong-Liang Yang is a Professor in the Department of Earth and Planetary Scie
 <p id="Chien"></p>
 
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
-	Chie-Chen Lee
+	Chieh-Chen Lee
 </div>
 
 <br><br><br>
