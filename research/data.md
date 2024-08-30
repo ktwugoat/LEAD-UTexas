@@ -3,6 +3,9 @@ layout: page
 title: Research
 subtitle: Data
 ---
+
+<b><span style="font-size: 25px !important; color: #BD0026;">NOTICE: THIS PAGE IS NOT UPDATED, PLEASE CHECK</span></b>
+
 <b><span style="font-size: 17px !important; color: #002dbd;"> Annual Subsurface Drainage Map</span></b> for the Red River of the North Basin
 
 This resource is  the Random Forest Maching Learning-based annual subsurface drainage (so-called "Tile Drainage") maps for the Bois de Sioux Watershed (BdSW), Minnesota, and the Red River of the North Basin (RRB), separately. The RRB maps cover a 101,500 km2 area in the United States, which overlies portions of North Dakota, South Daokta, and Minnesota. The maps provide annual subsurface drainage system maps for recent four years, 2009, 2011, 2014, and 2017 (In 2017, the subsurface drainage maps including the Sentinel-1 Synthetic Aperture Radar as an additional input are also provided). Please see <a href="/pdfs/Cho_etal_2019_WRR_SSD.pdf">Cho et al. (2019)</a> in <i>Water Resources Research</i> for full details.
