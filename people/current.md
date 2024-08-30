@@ -27,70 +27,10 @@ subtitle:
     <p><em>Specialization</em></p>
 </div>
 
-<div>
-    <a href="https://lead-utexas.github.io/people/members/Liang/">
-        <img src="/people/images/Liang.jpg" alt="Person 2" style="width: 100%; max-width: 150px;"/>
-        <h4>Person 2</h4>
-    </a>
-    <p>Role</p>
-    <p><em>Specialization</em></p>
 </div>
 
-<div>
-    <a href="https://lead-utexas.github.io/people/members/Liang/">
-        <img src="/people/images/Liang.jpg" alt="Person 3" style="width: 100%; max-width: 150px;"/>
-        <h4>Person 3</h4>
-    </a>
-    <p>Role</p>
-    <p><em>Specialization</em></p>
-</div>
 
-<div>
-    <a href="https://lead-utexas.github.io/people/members/Liang/">
-        <img src="/people/images/Liang.jpg" alt="Person 4" style="width: 100%; max-width: 150px;"/>
-        <h4>Person 4</h4>
-    </a>
-    <p>Role</p>
-    <p><em>Specialization</em></p>
-</div>
-
-<div>
-    <a href="https://lead-utexas.github.io/people/members/Liang/">
-        <img src="/people/images/Liang.jpg" alt="Person 1" style="width: 100%; max-width: 150px;"/>
-        <h4>Person 1</h4>
-    </a>
-    <p>Role</p>
-    <p><em>Specialization</em></p>
-</div>
-
-<div>
-    <a href="https://lead-utexas.github.io/people/members/Liang/">
-        <img src="/people/images/Liang.jpg" alt="Person 2" style="width: 100%; max-width: 150px;"/>
-        <h4>Person 2</h4>
-    </a>
-    <p>Role</p>
-    <p><em>Specialization</em></p>
-</div>
-
-<div>
-    <a href="https://lead-utexas.github.io/people/members/Liang/">
-        <img src="/people/images/Liang.jpg" alt="Person 3" style="width: 100%; max-width: 150px;"/>
-        <h4>Person 3</h4>
-    </a>
-    <p>Role</p>
-    <p><em>Specialization</em></p>
-</div>
-
-<div>
-    <a href="https://lead-utexas.github.io/people/members/Liang/">
-        <img src="/people/images/Liang.jpg" alt="Person 4" style="width: 100%; max-width: 150px;"/>
-        <h4>Person 4</h4>
-    </a>
-    <p>Role</p>
-    <p><em>Specialization</em></p>
-</div>
-
-</div>
+<br><br><br>
 
 
 
@@ -99,27 +39,21 @@ subtitle:
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; text-align: center;">
 
 <div>
-    <a href="https://lead-utexas.github.io/people/members/NaveenSudharsan/">
-        <img src="/people/images/NaveenSudharsan.jpg" alt="Naveen Sudharsan" style="width: 100%; max-width: 150px;"/>
-        <h4>Naveen Sudharsan</h4>
-    </a>
+    <img src="/people/images/NaveenSudharsan.jpg" alt="Naveen Sudharsan" style="width: 100%; max-width: 150px;"/>
+    <h4><a href="https://lead-utexas.github.io/people/members/NaveenSudharsan/">Naveen Sudharsan</a></h4>
     <p>Postdoc</p>
 </div>
 
 <div>
-    <a href="https://lead-utexas.github.io/people/members/ChenxiHu/">
-        <img src="/people/images/ChenxiHu.jpg" alt="Chenxi Hu" style="width: 100%; max-width: 150px;"/>
-        <h4>Chenxi Hu</h4>
-    </a>
+    <img src="/people/images/ShyamaMohanty.jpg" alt="Shyama Mohanty" style="width: 100%; max-width: 150px;"/>
+    <h4><a href="https://lead-utexas.github.io/people/members/ShyamaMohanty/">Shyama Mohanty</a></h4>
     <p>Postdoc (starting in 2024)</p>
 </div>
 
 <div>
-    <a href="https://lead-utexas.github.io/people/members/ShyamaMohanty/">
-        <img src="/people/images/ShyamaMohanty.jpg" alt="Shyama Mohanty" style="width: 100%; max-width: 150px;"/>
-        <h4>Shyama Mohanty</h4>
-    </a>
-    <p>Postdoc (starting in March 2024)</p>
+    <img src="/people/images/ChenxiHu.jpg" alt="Chenxi Hu" style="width: 100%; max-width: 150px;"/>
+    <h4><a href="https://lead-utexas.github.io/people/members/ChenxiHu/">Chenxi Hu</a></h4>
+    <p>Postdoc (starting in 2024)</p>
 </div>
 
 </div>
