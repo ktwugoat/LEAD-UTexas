@@ -29,6 +29,8 @@ subtitle:
 
 <br>
 
+<br>
+
 <img src="/people/images/Liang.jpg" width="150" height="auto" align="left" hspace="20"/>
 
 <span style="font-size: 15px !important; color: #555;">
