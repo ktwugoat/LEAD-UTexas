@@ -10,34 +10,64 @@ You can also make your website based on the guidance at [jsg profile](https://ep
 
 # Team
 
-<div style="display: flex; justify-content: space-around; text-align: center;">
+<div style="display: flex; justify-content: space-around; text-align: center; flex-wrap: wrap;">
 
-<div>
-    <img src="https://your-image-url-here.com" alt="Jie Xu" style="width:150px;height:auto;">
-    <h3>Jie Xu</h3>
-    <p>Postdoc (2023/11-)</p>
-    <p><em>Remote Sensing of Hydrology</em></p>
+<div style="flex: 1; max-width: 25%; margin: 10px;">
+    <img src="https://your-image-url-here.com" alt="Person 1" style="width: 100%; max-width: 150px;"/>
+    <h3>Person 1</h3>
+    <p>Role</p>
+    <p><em>Specialization</em></p>
 </div>
 
-<div>
-    <img src="https://your-image-url-here.com" alt="Ziyun Yin" style="width:150px;height:auto;">
-    <h3>Ziyun Yin</h3>
-    <p>PhD aspirant (2022/9 - )</p>
-    <p><em>Geospatial modeling & analysis of Human perturbations to hydrology; Natural hazards</em></p>
+<div style="flex: 1; max-width: 25%; margin: 10px;">
+    <img src="https://your-image-url-here.com" alt="Person 2" style="width: 100%; max-width: 150px;"/>
+    <h3>Person 2</h3>
+    <p>Role</p>
+    <p><em>Specialization</em></p>
 </div>
 
-<div>
-    <img src="https://your-image-url-here.com" alt="Xiangyong Lei" style="width:150px;height:auto;">
-    <h3>Xiangyong Lei</h3>
-    <p>PhD candidate (2022/9 - )</p>
-    <p><em>Physics-based modeling; Hydrometeorology</em></p>
+<div style="flex: 1; max-width: 25%; margin: 10px;">
+    <img src="https://your-image-url-here.com" alt="Person 3" style="width: 100%; max-width: 150px;"/>
+    <h3>Person 3</h3>
+    <p>Role</p>
+    <p><em>Specialization</em></p>
 </div>
 
-<div>
-    <img src="https://your-image-url-here.com" alt="Zimin Yuan" style="width:150px;height:auto;">
-    <h3>Zimin Yuan</h3>
-    <p>PhD aspirant (2023/9-); former undergrads researcher</p>
-    <p><em>River geomorphology and modeling of rivers</em></p>
+<div style="flex: 1; max-width: 25%; margin: 10px;">
+    <img src="https://your-image-url-here.com" alt="Person 4" style="width: 100%; max-width: 150px;"/>
+    <h3>Person 4</h3>
+    <p>Role</p>
+    <p><em>Specialization</em></p>
 </div>
 
+<!-- Repeat for the next set of 4 people -->
+<div style="flex: 1; max-width: 25%; margin: 10px;">
+    <img src="https://your-image-url-here.com" alt="Person 5" style="width: 100%; max-width: 150px;"/>
+    <h3>Person 5</h3>
+    <p>Role</p>
+    <p><em>Specialization</em></p>
+</div>
+
+<div style="flex: 1; max-width: 25%; margin: 10px;">
+    <img src="https://your-image-url-here.com" alt="Person 6" style="width: 100%; max-width: 150px;"/>
+    <h3>Person 6</h3>
+    <p>Role</p>
+    <p><em>Specialization</em></p>
+</div>
+
+<div style="flex: 1; max-width: 25%; margin: 10px;">
+    <img src="https://your-image-url-here.com" alt="Person 7" style="width: 100%; max-width: 150px;"/>
+    <h3>Person 7</h3>
+    <p>Role</p>
+    <p><em>Specialization</em></p>
+</div>
+
+<div style="flex: 1; max-width: 25%; margin: 10px;">
+    <img src="https://your-image-url-here.com" alt="Person 8" style="width: 100%; max-width: 150px;"/>
+    <h3>Person 8</h3>
+    <p>Role</p>
+    <p><em>Specialization</em></p>
+</div>
+
+<!-- Continue repeating for all 16 people -->
 </div>
