@@ -4,6 +4,9 @@ title: Prospective Students
 subtitle: 
 ---
 
+<b><span style="font-size: 25px !important; color: #BD0026;">NOTICE: EMAILS AND LINKS CAN BE WRONG, PLEASE CHECK</span></b>
+<b><span style="font-size: 25px !important; color: #BD0026;">NOTICE: LINKS OF JSG SHOULD BE CHANGED TO GITHUB, PLEASE CHECK</span></b>
+
 <h1>Prospective Students</h1>
 
 <h2>Admissions</h2>
