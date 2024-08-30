@@ -7,12 +7,12 @@ subtitle:
 <b><span style="font-size: 25px !important; color: #BD0026;">NOTICE: EMAIL AND LINKS CAN BE WRONG, PLEASE CHECK</span></b>
 
 
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 
 <b><span style="font-size: 25px !important; color: #BD0026;">Research staffs</span></b>
 <hr>
 
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 
 <b><span style="font-size: 20px !important; color: #45ba0e;">Former Group Photo</span></b>
 <hr>
@@ -175,7 +175,6 @@ subtitle:
 	</a>
 </div>
 
-<h2>Research Associate/Scientist</h2>
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
 	Dr. Jiangfeng Wei
 </div>
@@ -191,9 +190,7 @@ subtitle:
 <p>Ph.D., Georgia Institute of Technology (2007).</p>
 <p><em>Research interests:</em> climate modeling, land surface modeling, land-atmosphere coupling strength, back-trajectory analysis of water vapor.</p>
 
-<br><br><br><br><br><br>
 
-<h2>Postdoctoral Fellow</h2>
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
 	Dr. Long Zhao
 </div>
@@ -786,8 +783,6 @@ subtitle:
 <p>NOAA Program Manager and Director of US CCSP GWCP Office. 5-26 February, 2003.</p>
 <p><em>Seminar:</em> “National and International Climate and Water Programs: Issues and Opportunities.”</p>
 
-<br><br><br><br><br><br>
-
 <div style="clear:both;"></div>
 <p>Ph.D., University of Iowa (1998).</p>
 <p><em>Research interests:</em> Air Quality (November 2004 to September 2005).</p>
@@ -798,4 +793,3 @@ subtitle:
 <hr>
 
 <br><br><br><br><br><br>
-
