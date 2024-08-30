@@ -4,7 +4,7 @@ title: LEAD Group Members
 subtitle: 
 ---
 
-<h2><b><span style="font-size: 25px !important; color: #BD0026;">NOTICE: EMAILS AND LINKS CAN BE WRONG, PLEASE CHECK</span></b></h2>
+<h2><b><span style="font-size: 25px !important; color: #BD0026;">NOTICE: EMAILS AND LINKS CAN BE WRONG, PLEASE CHECK BY YOURSELLF</span></b></h2>
 <span style="font-size: 14px !important; color: #555;"> <a href="https://lead-utexas.github.io/people/members/John%20Doe/" target="_blank" >Mock Personal Web Link on this site</a> </span>
 
 <br><br><br>
@@ -299,7 +299,7 @@ Dr. Zong-Liang Yang is a Professor in the Department of Earth and Planetary Scie
     Rakshith
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
-<span style="font-size: 14px !important; color: #555;">PhD From 2024, Dev’s student</span>
+<span style="font-size: 14px !important; color: #555;">PhD From 2024, co-advised by Liang & Dev</span>
 </div>
 
 <br><br><br>
