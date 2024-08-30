@@ -43,7 +43,7 @@ Dr. Zong-Liang Yang is a Professor in the Department of Earth and Planetary Scie
 
 <br>
 
-<b><span style="font-size: 25px !important; color: #BD0026;">Graduate students</span></b>
+<b><span style="font-size: 25px !important; color: #BD0026;">Postdocs</span></b>
 <hr>
 <p id="NaveenSudharsan"></p>
 
@@ -84,19 +84,9 @@ Dr. Zong-Liang Yang is a Professor in the Department of Earth and Planetary Scie
 
 <br><br><br>
 
-<p id="Harsh"></p>
 
-<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
-    Harsh
-</div>
-<div style="font-size: 15px !important; color: #555; float:left;">
-    <a href="mailto:harsh.kamath@utexas.edu" target="_top" title="email" style="margin-right: 8px">
-        <img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
-    </a>
-<span style="font-size: 14px !important; color: #555;">PhD From ??</span>
-</div>
-
-<br><br><br>
+<b><span style="font-size: 25px !important; color: #BD0026;">Graduate students</span></b>
+<hr>
 
 <p id="XinxinSui"></p>
 
@@ -126,6 +116,20 @@ Dr. Zong-Liang Yang is a Professor in the Department of Earth and Planetary Scie
 
 <br><br><br>
 
+
+<p id="Harsh"></p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+    Harsh
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+    <a href="mailto:harsh.kamath@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+        <img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+    </a>
+<span style="font-size: 14px !important; color: #555;">PhD From ??</span>
+</div>
+
+<br><br><br>
 
 <p id="Wu"></p>
 
@@ -317,6 +321,8 @@ Dr. Zong-Liang Yang is a Professor in the Department of Earth and Planetary Scie
 
 
 <b><span style="font-size: 25px !important; color: #BD0026;">Undergraduate students</span></b>
+<hr>
+
 
 
 <p id="JingxinLiang"></p>
@@ -332,8 +338,6 @@ Dr. Zong-Liang Yang is a Professor in the Department of Earth and Planetary Scie
 </div>
 
 <br><br><br>
-
-<hr>
 
 <br>
 <br>
