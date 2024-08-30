@@ -17,7 +17,7 @@ baseurl: ""
 title: Dr. Zong-Liang Yang
 
 # Short description of your site
-description: "?????????????????????????????"
+description: "LEAD Group @ UT Austin"
 
 # --- Navigation bar options --- #
 
@@ -82,21 +82,21 @@ navbar-links:
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Dr. Zong-Liang Yang
-  email: "https://lead-utexas.github.io/about/contact"
+  # email: "https://lead-utexas.github.io/about/contact"
   # github: ???????    # eg. daattali
-  twitter: zlyang   # eg. daattali
+  # twitter: zlyang   # eg. daattali
 
 # Select which links to show in the footer
 footer-links-active:
   rss: false
   facebook: false
-  email: true
-  twitter: true
+  email: false
+  twitter: false
   github: true
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
+  twitter: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
