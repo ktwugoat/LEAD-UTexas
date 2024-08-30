@@ -8,7 +8,6 @@ subtitle:
 
 <br><br><br>
 
-
 <img src="/people/images/LEAD-GroupPhoto.jpg" width="450" align="center" hspace="20" target="_blank" title="LEAD-GroupPhoto" />
 
 <h2><b><span style="font-size: 25px !important; color: #BD0026;">Faculty</span></b></h2>
