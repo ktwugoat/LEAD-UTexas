@@ -21,14 +21,13 @@ subtitle:
 	<a href="mailto:liang@jsg.utexas.edu"  target="_top" title="liang@jsg.utexas.edu" style="margin-right: 8px">
 		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
-<!-- 	<a href="https://github.com/wanirepo/" target="_blank" title="wani github" style="margin-right: 8px">
-		<img src="/img/github-brands.png" width="auto" height="20" alt="github"/> -->
-<!-- 	</a> -->
 	<a href="https://twitter.com/zlyang/" target="_blank" title="zlyang X" style="margin-right: 8px">
 		<img src="/img/X_icon.svg" width="auto" height="20" alt="X"/>
 	</a>
 <span style="font-size: 14px !important; color: #555;"><a href="https://apps.jsg.utexas.edu/profiles/files/cv/CV_Yang_DGS.pdf" target="_blank">CV</a> | <a href="http://scholar.google.com/citations?user=ZncpGB0AAAAJ&hl=en" target="_blank" >Google Scholar</a>  | <a href="https://www.jsg.utexas.edu/researcher/zong-liang_yang" target="_blank" >Web</a> </span>
 </div>
+
+<br>
 
 <img src="/people/images/Liang.jpg" width="150" height="auto" align="left" hspace="20"/>
 
