@@ -1,7 +1,7 @@
 ---
 layout: page
 title: LEAD Group @ UT-Austin
-permalink: /
+permalink: 
 subtitle: land surface processes, climate modeling, land-atmosphere interaction, hydroclimatology, hydrometeorology
 ---
 
