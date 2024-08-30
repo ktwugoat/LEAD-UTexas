@@ -8,12 +8,13 @@ subtitle:
 
 <div class="entry-content">
     <p>Dr. Zong-Liang Yang<br>
-    Department of Geological Sciences<br>
+<!--     Department of Geological Sciences<br>
     <a href="https://www.jsg.utexas.edu" target="_blank">Jackson School of Geosciences</a><br>
     <a href="https://www.utexas.edu" target="_blank">University of Texas at Austin</a><br>
-    Austin, TX 78712-1692<br>
+    Austin, TX 78712-1692<br> -->
     Phone: +1 512 471 3824<br>
-    E-mail:<img src="/img/LiangEmail.png" width="auto" height="30" alt="X"/>    </p>
+    E-mail:<img src="/img/LiangEmail.png" width="auto" height="30" alt="X"/>
+    </p>
 
 <!--         <a href="mailto:liang@jsg.utexas.edu">liang@jsg.utexas.edu</a> -->
 </div>
