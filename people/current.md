@@ -174,19 +174,6 @@ Dr. Zong-Liang Yang is a Professor in the Department of Earth and Planetary Scie
 
 <br><br><br>
 
-<p id="IsaKazen"></p>
-
-<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
-    Isa Kazen
-</div>
-<div style="font-size: 15px !important; color: #555; float:left;">
-    <a href="mailto:isakazen@utexas.edu" target="_top" title="email" style="margin-right: 8px">
-        <img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
-    </a>
-<span style="font-size: 14px !important; color: #555;">PhD From 20??</span>
-</div>
-
-<br><br><br>
 
 <p id="RaymondLuong"></p>
 
@@ -313,17 +300,10 @@ Dr. Zong-Liang Yang is a Professor in the Department of Earth and Planetary Scie
 <br><br><br>
 
 
-<b><span style="font-size: 25px !important; color: #BD0026;">Research staffs</span></b>
-<hr>
-
-
-<br><br><br>
 
 
 <b><span style="font-size: 25px !important; color: #BD0026;">Undergraduate students</span></b>
 <hr>
-
-
 
 <p id="JingxinLiang"></p>
 
@@ -338,6 +318,34 @@ Dr. Zong-Liang Yang is a Professor in the Department of Earth and Planetary Scie
 </div>
 
 <br><br><br>
+
+
+
+<p id="IsaKazen"></p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+    Isa Kazen
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+    <a href="mailto:isakazen@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+        <img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+    </a>
+<span style="font-size: 14px !important; color: #555;">PhD From 20??</span>
+</div>
+
+<br><br><br>
+
+
+
+
+<b><span style="font-size: 25px !important; color: #BD0026;">Research staffs</span></b>
+<hr>
+
+
+<br><br><br>
+
+
+
 
 <br>
 <br>
