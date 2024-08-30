@@ -4,14 +4,14 @@ title: LEAD Group Members
 subtitle: 
 ---
 
-<b><span style="font-size: 25px !important; color: #BD0026;">NOTICE: EMAILS AND LINKS CAN BE WRONG, PLEASE CHECK</span></b>
+<h2><b><span style="font-size: 25px !important; color: #BD0026;">NOTICE: EMAILS AND LINKS CAN BE WRONG, PLEASE CHECK</span></b></h2>
 
 <br><br><br>
 
 
 <img src="/people/images/LEAD-GroupPhoto.jpg" width="450" align="center" hspace="20" target="_blank" title="LEAD-GroupPhoto" />
 
-<b><span style="font-size: 25px !important; color: #BD0026;">Faculty</span></b>
+<h2><b><span style="font-size: 25px !important; color: #BD0026;">Faculty</span></b></h2>
 <hr>
 
 <p id="Liang"></p>
@@ -48,7 +48,7 @@ Dr. Zong-Liang Yang is a Professor in the Department of Earth and Planetary Scie
 
 <br>
 
-<b><span style="font-size: 25px !important; color: #BD0026;">Postdocs</span></b>
+<h2><b><span style="font-size: 25px !important; color: #BD0026;">Postdocs</span></b></h2>
 <hr>
 <p id="NaveenSudharsan"></p>
 
@@ -90,7 +90,7 @@ Dr. Zong-Liang Yang is a Professor in the Department of Earth and Planetary Scie
 <br><br><br>
 
 
-<b><span style="font-size: 25px !important; color: #BD0026;">Graduate students</span></b>
+<h2><b><span style="font-size: 25px !important; color: #BD0026;">Graduate students</span></b></h2>
 <hr>
 
 <p id="XinxinSui"></p>
@@ -307,7 +307,7 @@ Dr. Zong-Liang Yang is a Professor in the Department of Earth and Planetary Scie
 
 
 
-<b><span style="font-size: 25px !important; color: #BD0026;">Undergraduate students</span></b>
+<h2><b><span style="font-size: 25px !important; color: #BD0026;">Undergraduate students</span></b></h2>
 <hr>
 
 <p id="JingxinLiang"></p>
@@ -343,7 +343,7 @@ Dr. Zong-Liang Yang is a Professor in the Department of Earth and Planetary Scie
 
 
 
-<b><span style="font-size: 25px !important; color: #BD0026;">Research staffs</span></b>
+<h2><b><span style="font-size: 25px !important; color: #BD0026;">Research staffs</span></b></h2>
 <hr>
 
 
@@ -362,7 +362,7 @@ Dr. Zong-Liang Yang is a Professor in the Department of Earth and Planetary Scie
 <br>
 
 
-<b><span style="font-size: 25px !important; color: #BD0026;">Collaborators</span></b>
+<h2><b><span style="font-size: 25px !important; color: #BD0026;">Collaborators</span></b></h2>
 <hr>
 <span style="font-size: 15px !important; color: #0055A9;">Within CNIR</span>
 
@@ -404,7 +404,7 @@ Dr. Zong-Liang Yang is a Professor in the Department of Earth and Planetary Scie
 <br><br><br><br>
 
 
-<!-- <b><span style="font-size: 20px !important; color: #0055A9;">We're hiring!</span></b> <span style="font-size: 16px !important;">(for more imforation, please see [here](/jobs/))</span>
+<!-- <b><span style="font-size: 20px !important; color: #0055A9;">We're hiring!</span></b></h2> <span style="font-size: 16px !important;">(for more imforation, please see [here](/jobs/))</span>
 
 <!-- <br><br><br><br><br><br>
 
