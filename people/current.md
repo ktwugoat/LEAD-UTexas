@@ -147,8 +147,8 @@ Dr. Zong-Liang Yang is a Professor in the Department of Earth and Planetary Scie
 
 <br>
 
-<img src="/people/images/0KW_Profile_4_3.jpg" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">Koutian Wu (Wu) is a first-year Ph.D. student in the LEAD Group at UT Austin. Office at JGB 5.320. He is interested in enhancing the capabilities of land-climate models, and ultimately aims to combine kilometer-scale modeling, in-situ measurements, and remote sensing to address emerging climate challenges. Currently, Wu is working on integrating rock moisture and wood moisture into the hydrological cycle using the Noah-MP model.</span>
+<img src="/people/images/0KW_Profile_4_3.jpg" width="150" height="auto" align="left" hspace="20" />
+<span style="font-size: 15px !important; color: #555;">Koutian Wu (Wu) is a first-year Ph.D. student in the LEAD Group at UT Austin. Office at JGB 5.320. He is interested in enhancing the capabilities of land-climate models, and ultimately aims to combine high-resolution modeling, in-situ measurements, and remote sensing to address emerging climate challenges. Currently, Wu is working on integrating rock moisture and wood moisture into the hydrological cycle using the Noah-MP model.</span>
 
 <span style="font-size: 15px !important; color: #555;">Wu presented his undergraduate work at the AGU 2023, where he was the first author in a poster session. He has presented case studies at the Top Innovative Talents Symposium at Tsinghua University.</span>
 
