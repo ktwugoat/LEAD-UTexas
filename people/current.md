@@ -79,7 +79,7 @@ Dr. Zong-Liang Yang is a Professor in the Department of Earth and Planetary Scie
     <a href="mailto:shyamamohanty@utexas.edu" target="_top" title="email" style="margin-right: 8px">
         <img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
     </a>
-<span style="font-size: 14px !important; color: #555;">Postdoc from March 2024, Indian, her husband is a UCLA postdoc</span>
+<span style="font-size: 14px !important; color: #555;">Postdoc from March 2024.</span>
 </div>
 
 <br><br><br>
@@ -148,11 +148,163 @@ Dr. Zong-Liang Yang is a Professor in the Department of Earth and Planetary Scie
 <br>
 
 <img src="/people/images/0KW_Profile_4_3.jpg" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">Koutian Wu (Wu) is a first-year Ph.D. student in the LEAD Group at UT Austin. He is interested in enhancing the capabilities of land-climate models, and ultimately aims to combine kilometer-scale modeling, in-situ measurements, and remote sensing to address emerging climate challenges. Currently, Wu is working on integrating rock moisture and wood moisture into the hydrological cycle using the Noah-MP model.</span>
+<span style="font-size: 15px !important; color: #555;">Koutian Wu (Wu) is a first-year Ph.D. student in the LEAD Group at UT Austin. Office at JGB 5.320. He is interested in enhancing the capabilities of land-climate models, and ultimately aims to combine kilometer-scale modeling, in-situ measurements, and remote sensing to address emerging climate challenges. Currently, Wu is working on integrating rock moisture and wood moisture into the hydrological cycle using the Noah-MP model.</span>
 
 <span style="font-size: 15px !important; color: #555;">Wu presented his undergraduate work at the AGU 2023, where he was the first author in a poster session. He has presented case studies at the Top Innovative Talents Symposium at Tsinghua University.</span>
 
 <span style="font-size: 15px !important; color: #555;">Wu graduated from the School of Earth and Space Sciences at the University of Science and Technology of China (USTC) in 2024. He has been recognized with the "Honorary Rank" by USTC.</span>
+
+<br><br><br>
+
+<p id="SasankaTalukdar"></p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+    Sasanka Talukdar
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+    <a href="mailto:sasanka@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+        <img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+    </a>
+<span style="font-size: 14px !important; color: #555;">PhD From 20??</span>
+</div>
+
+<br><br><br>
+
+<p id="IsaKazen"></p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+    Isa Kazen
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+    <a href="mailto:isakazen@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+        <img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+    </a>
+<span style="font-size: 14px !important; color: #555;">PhD From 20??</span>
+</div>
+
+<br><br><br>
+
+<p id="RaymondLuong"></p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+    Raymond Luong
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+    <a href="mailto:utruffel@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+        <img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+    </a>
+<span style="font-size: 14px !important; color: #555;">PhD From 20??</span>
+</div>
+
+<br><br><br>
+
+<p id="Manmeet"></p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+    Manmeet
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+    <a href="mailto:manmeet.singh@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+        <img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+    </a>
+<span style="font-size: 14px !important; color: #555;">PhD From 20??</span>
+</div>
+
+<br><br><br>
+
+<p id="JaggerAlexander"></p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+    Jagger Alexander
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+    <a href="mailto:jaggeralexander@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+        <img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+    </a>
+<span style="font-size: 14px !important; color: #555;">PhD From 2022</span>
+</div>
+
+<br><br><br>
+
+<p id="Prudhvi"></p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+    Prudhvi
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+    <a href="mailto:prudhvisai535@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+        <img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+    </a>
+<span style="font-size: 14px !important; color: #555;">PhD From 20??</span>
+</div>
+
+<br><br><br>
+
+<p id="MahmoudMbarak"></p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+    Mahmoud Mbarak
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+    <a href="mailto:mbarak@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+        <img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+    </a>
+<span style="font-size: 14px !important; color: #555;">PhD From 20??</span>
+</div>
+
+<br><br><br>
+
+<p id="ShokoufehKhojeh"></p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+    Shokoufeh Khojeh
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+    <a href="mailto:shokoufeh.khojeh@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+        <img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+    </a>
+<span style="font-size: 14px !important; color: #555;">PhD From 2023, Office at JGB 5.320. </span>
+</div>
+
+<br><br><br>
+
+<p id="DannyXu"></p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+    Danny Xu
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+    <a href="mailto:dannyxu@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+        <img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+    </a>
+<span style="font-size: 14px !important; color: #555;">PhD From 20??</span>
+</div>
+
+<br><br><br>
+
+<p id="CalebEarlAdams"></p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+    Caleb Earl Adams
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+    <a href="mailto:caleb.earl.adams@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+        <img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+    </a>
+<span style="font-size: 14px !important; color: #555;">PhD From 2022</span>
+</div>
+
+<br><br><br>
+
+
+<p id="Rakshith"></p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+    Rakshith
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+<span style="font-size: 14px !important; color: #555;">PhD From 2024, Dev’s student</span>
+</div>
 
 <br><br><br>
 
@@ -165,6 +317,22 @@ Dr. Zong-Liang Yang is a Professor in the Department of Earth and Planetary Scie
 
 
 <b><span style="font-size: 25px !important; color: #BD0026;">Undergraduate students</span></b>
+
+
+<p id="JingxinLiang"></p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+    Jingxin Liang
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+    <a href="mailto:liangjx0621@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+        <img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+    </a>
+<span style="font-size: 14px !important; color: #555;">Undergrad From 2021</span>
+</div>
+
+<br><br><br>
+
 <hr>
 
 <br>
