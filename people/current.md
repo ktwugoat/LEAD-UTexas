@@ -6,8 +6,7 @@ subtitle:
 
 <h2>NOTICE: EMAILS AND LINKS CAN BE WRONG, PLEASE CHECK BY YOURSELLF</h2>
 <h2>NOTICE: SORT OF NAMES CAN BE WRONG, PLEASE CHECK BY YOURSELLF</h2>
-
-<span style="font-size: 14px !important; color: #555;"> <a href="https://lead-utexas.github.io/people/members/John%20Doe/" target="_blank" >Mock Personal Web Link on this site</a> </span>
+<h2><a href="https://lead-utexas.github.io/people/members/Liang/" target="_blank" >Example Personal Website of Liang</a> </h2>
 
 <br><br><br>
 
