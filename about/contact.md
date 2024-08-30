@@ -13,7 +13,9 @@ subtitle:
     <a href="https://www.utexas.edu" target="_blank">University of Texas at Austin</a><br />
     Austin, TX 78712-1692<br />
     Phone: +1 512 471 3824<br />
-    E-mail: <a href="mailto:liang@jsg.utexas.edu">liang@jsg.utexas.edu</a></p>
+    E-mail:<img src="/img/LiangEmail.png" width="auto" height="30" alt="X"/>    </p>
+
+<!--         <a href="mailto:liang@jsg.utexas.edu">liang@jsg.utexas.edu</a> -->
 </div>
 
 ## Location
