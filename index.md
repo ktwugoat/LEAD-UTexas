@@ -7,7 +7,7 @@ subtitle: land surface processes, climate modeling, land-atmosphere interaction,
 
 <img src="img/LEAD.jpg" width="820" align="center"/>
 
-Welcome to Dr. Zong-Liang Yang’s Land Environment and Atmospheric Dynamics (LEAD) Group at UT-Austin.
+<Strong>Welcome to Dr. Zong-Liang Yang’s Land Environment and Atmospheric Dynamics (LEAD) Group at UT-Austin.</Strong>
 
 The LEAD group consists of graduate research assistants, postdoctoral fellows, research scientists and visiting scholars. We view the earth system in a holistic way, linking the atmosphere, ocean, biosphere, cryosphere, and solid earth as an integrated system. We use powerful methodologies such as satellite remote sensing, earth system modeling, and high performance computing which are now profoundly changing research in earth system sciences. We place a strong emphasis on the societal impact of the research in earth system sciences. Specifically, we are working to answer a wide variety of earth science questions below.
 
