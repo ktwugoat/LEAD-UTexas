@@ -6,22 +6,19 @@ subtitle:
 
 <b><span style="font-size: 25px !important; color: #BD0026;">NOTICE: EMAIL AND LINKS CAN BE WRONG, PLEASE CHECK</span></b>
 
+<br><br><br>
 
-<br><br><br><br><br><br>
-
-<b><span style="font-size: 25px !important; color: #BD0026;">Research staffs</span></b>
+<h2>Research staffs</h2>
 <hr>
 
-<br><br><br><br><br><br>
+<br><br><br>
 
-<b><span style="font-size: 20px !important; color: #45ba0e;">Former Group Photo</span></b>
+<h2>Former Group Photo<h2>
 <hr>
 
 <img src="/people/images/??Summerinterns2017.jpg" width="450" align="center" hspace="20" />
 
-
-<br><br><br><br><br><br>
-
+<br><br><br>
 
 <h2>Postdoctoral Fellows or Research Associates</h2>
 <hr>
@@ -207,7 +204,7 @@ subtitle:
 <p>Ph.D., Chinese Academy of Sciences (2013).</p>
 <p><em>Research interests:</em> land data assimilation, soil moisture, remote sensing, field measurement, Tibetan Plateau hydroclimatology.</p>
 
-<br><br><br><br><br><br>
+<br><br><br>
 
 <h2>Graduate Students Mentored, Supervised or Sponsored</h2>
 <hr>
@@ -603,7 +600,7 @@ subtitle:
 <p>MS Candidate. BA Asian Area Studies (1987), BS Microbiology (1988), University of Illinois, Urbana. MA Education (1993), Illinois State University.</p>
 <p><em>Research interests:</em> environmental policy, air quality policy.</p>
 
-<br><br><br><br><br><br>
+<br><br><br>
 
 <h2>Visiting Scholars</h2>
 <hr>
@@ -785,9 +782,9 @@ subtitle:
 <p>Ph.D., University of Iowa (1998).</p>
 <p><em>Research interests:</em> Air Quality (November 2004 to September 2005).</p>
 
-<br><br><br><br><br><br><br>
+<br><br><br><br>
 
 <h2>Undergraduate students</h2>
 <hr>
 
-<br><br><br><br><br><br>
+<br><br><br>
