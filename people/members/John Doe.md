@@ -15,28 +15,28 @@ You can also make your website based on the guidance at [jsg profile](https://ep
 
 <div>
     <img src="/people/images/Liang.jpg" alt="Person 1" style="width: 100%; max-width: 150px;"/>
-    <h6>Person 1</h6>
+    <h4>Person 1</h4>
     <p>Role</p>
     <p><em>Specialization</em></p>
 </div>
 
 <div>
     <img src="/people/images/Liang.jpg" alt="Person 2" style="width: 100%; max-width: 150px;"/>
-    <h6>Person 2</h6>
+    <h4>Person 2</h4>
     <p>Role</p>
     <p><em>Specialization</em></p>
 </div>
 
 <div>
     <img src="/people/images/Liang.jpg" alt="Person 3" style="width: 100%; max-width: 150px;"/>
-    <h6>Person 3</h6>
+    <h4>Person 3</h4>
     <p>Role</p>
     <p><em>Specialization</em></p>
 </div>
 
 <div>
     <img src="/people/images/Liang.jpg" alt="Person 4" style="width: 100%; max-width: 150px;"/>
-    <h6>Person 4</h6>
+    <h4>Person 4</h4>
     <p>Role</p>
     <p><em>Specialization</em></p>
 </div>
@@ -44,28 +44,28 @@ You can also make your website based on the guidance at [jsg profile](https://ep
 
 <div>
     <img src="/people/images/Liang.jpg" alt="Person 1" style="width: 100%; max-width: 150px;"/>
-    <h6>Person 1</h6>
+    <h4>Person 1</h4>
     <p>Role</p>
     <p><em>Specialization</em></p>
 </div>
 
 <div>
     <img src="/people/images/Liang.jpg" alt="Person 2" style="width: 100%; max-width: 150px;"/>
-    <h6>Person 2</h6>
+    <h4>Person 2</h4>
     <p>Role</p>
     <p><em>Specialization</em></p>
 </div>
 
 <div>
     <img src="/people/images/Liang.jpg" alt="Person 3" style="width: 100%; max-width: 150px;"/>
-    <h6>Person 3</h6>
+    <h4>Person 3</h4>
     <p>Role</p>
     <p><em>Specialization</em></p>
 </div>
 
 <div>
     <img src="/people/images/Liang.jpg" alt="Person 4" style="width: 100%; max-width: 150px;"/>
-    <h6>Person 4</h6>
+    <h4>Person 4</h4>
     <p>Role</p>
     <p><em>Specialization</em></p>
 </div>
