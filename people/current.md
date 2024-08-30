@@ -8,7 +8,7 @@ subtitle:
 <h2>NOTICE: SORT OF NAMES CAN BE WRONG, PLEASE CHECK BY YOURSELLF</h2>
 <h2><a href="https://lead-utexas.github.io/people/members/Liang/" target="_blank" >Example Personal Website of Liang</a> </h2>
 
-<br><br><br>
+<br><br>
 
 <img src="/people/images/LEAD-GroupPhoto.jpg" width="450" align="center" hspace="20" target="_blank" title="LEAD-GroupPhoto" />
 
@@ -30,7 +30,7 @@ subtitle:
 </div>
 
 
-<br><br><br>
+<br><br>
 
 
 
@@ -81,7 +81,7 @@ subtitle:
 <span style="font-size: 14px !important; color: #555;">PhD From 2020, Civil Engineering, co-advised by Liang & Dev, JGB 5.346</span>
 </div>
 
-<br><br><br>
+<br><br>
 
 <p id="ChiehChenLee"></p>
 
@@ -95,7 +95,7 @@ subtitle:
 <span style="font-size: 14px !important; color: #555;">PhD From 2021</span>
 </div>
 
-<br><br><br>
+<br><br>
 
 <p id="Harsh"></p>
 
@@ -109,7 +109,7 @@ subtitle:
 <span style="font-size: 14px !important; color: #555;">PhD From ??</span>
 </div>
 
-<br><br><br>
+<br><br>
 
 <p id="SasankaTalukdar"></p>
 
@@ -123,7 +123,7 @@ subtitle:
 <span style="font-size: 14px !important; color: #555;">PhD From 20??</span>
 </div>
 
-<br><br><br>
+<br><br>
 
 
 <p id="RaymondLuong"></p>
@@ -138,7 +138,7 @@ subtitle:
 <span style="font-size: 14px !important; color: #555;">PhD From 20??</span>
 </div>
 
-<br><br><br>
+<br><br>
 
 <p id="Manmeet"></p>
 
@@ -152,7 +152,7 @@ subtitle:
 <span style="font-size: 14px !important; color: #555;">PhD From 20??</span>
 </div>
 
-<br><br><br>
+<br><br>
 
 <p id="JaggerAlexander"></p>
 
@@ -166,7 +166,7 @@ subtitle:
 <span style="font-size: 14px !important; color: #555;">PhD From 2022</span>
 </div>
 
-<br><br><br>
+<br><br>
 
 <p id="Prudhvi"></p>
 
@@ -180,7 +180,7 @@ subtitle:
 <span style="font-size: 14px !important; color: #555;">PhD From 20??</span>
 </div>
 
-<br><br><br>
+<br><br>
 
 <p id="MahmoudMbarak"></p>
 
@@ -194,7 +194,7 @@ subtitle:
 <span style="font-size: 14px !important; color: #555;">PhD From 20??</span>
 </div>
 
-<br><br><br>
+<br><br>
 
 <p id="ShokoufehKhojeh"></p>
 
@@ -208,7 +208,7 @@ subtitle:
 <span style="font-size: 14px !important; color: #555;">PhD From 2023, Office at JGB 5.320. </span>
 </div>
 
-<br><br><br>
+<br><br>
 
 <p id="CalebEarlAdams"></p>
 
@@ -222,7 +222,7 @@ subtitle:
 <span style="font-size: 14px !important; color: #555;">PhD From 2022</span>
 </div>
 
-<br><br><br>
+<br><br>
 
 
 <p id="Wu"></p>
@@ -252,7 +252,7 @@ subtitle:
 
 <span style="font-size: 15px !important; color: #555;">Wu graduated from the School of Earth and Space Sciences at the University of Science and Technology of China (USTC) in 2024. He has been recognized with the "Honorary Rank" by USTC.</span>
 
-<br><br><br>
+<br><br>
 
 
 <p id="Rakshith"></p>
@@ -264,7 +264,7 @@ subtitle:
 <span style="font-size: 14px !important; color: #555;">PhD From 2024, co-advised by Liang & Dev</span>
 </div>
 
-<br><br><br>
+<br><br>
 
 
 
@@ -284,7 +284,7 @@ subtitle:
 <span style="font-size: 14px !important; color: #555;">Undergrad From 2021</span>
 </div>
 
-<br><br><br>
+<br><br>
 
 
 
@@ -300,7 +300,7 @@ subtitle:
 <span style="font-size: 14px !important; color: #555;">Undergrad From 20??</span>
 </div>
 
-<br><br><br>
+<br><br>
 
 
 <p id="IsaKazen"></p>
@@ -315,7 +315,7 @@ subtitle:
 <span style="font-size: 14px !important; color: #555;">Undergrad From 20??</span>
 </div>
 
-<br><br><br>
+<br><br>
 
 
 
@@ -324,7 +324,7 @@ subtitle:
 <hr>
 
 
-<br><br><br>
+<br><br>
 
 
 
@@ -378,12 +378,12 @@ subtitle:
 <li><span style="font-size: 15px !important; color: #555;">AAA BBB (UCLA, <a href="https://sanlab.psych.ucla.edu">AAA BBB lab</a>) and AAA BBB (UCLA, <a href="http://www.scn.ucla.edu">AAA BBB lab</a>): AAA BBB</span></li>
 
 
-<br><br><br><br>
+<br><br><br>
 
 
 <!-- <b><span style="font-size: 20px !important; color: #0055A9;">We're hiring!</h2> <span style="font-size: 16px !important;">(for more imforation, please see [here](/jobs/))</span>
 
-<!-- <br><br><br><br><br><br>
+<!-- <br><br><br><br>
 
 ## Past Members
 
