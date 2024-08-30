@@ -3,6 +3,9 @@ layout: page
 title: Photos
 subtitle: 
 ---
+
+<b><span style="font-size: 25px !important; color: #BD0026;">NOTICE: THIS PAGE NOT UPDATED, PLEASE CHECK</span></b>
+
 <span style="font-size: 17px !important; color: #0055A9;">International Symposium on Snow 2022 at Davos, Switzerland (+ Excursion at Stillberg) </span>
 
 <img src="/photos/202209_present.jpg" width="700" align="center" hspace="5" />
