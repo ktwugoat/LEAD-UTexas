@@ -22,8 +22,8 @@ subtitle:
 ## Location
 <div class="entry-content">
     <p>Office: JGB 5.220DA<br>
-    Mailcode: C1100</p>   
+    Mailcode: C1100</p>
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6962.3513483414945!2d-97.7382908243959!3d30.285882674802945!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8644b59b01042263%3A0x9f7cdb06ec35477a!2sJackson%20School%20of%20Geosciences!5e1!3m2!1sen!2sus!4v1725045741060!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6962.35134655331!2d-97.7357159!3d30.285882700000005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8644b59b01042263%3A0x9f7cdb06ec35477a!2sJackson%20School%20of%20Geosciences!5e1!3m2!1sen!2sus!4v1725045843981!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 </div>
