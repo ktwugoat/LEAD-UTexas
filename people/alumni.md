@@ -208,7 +208,7 @@ subtitle:
 
 <br><br><br><br><br><br>
 
-<h2>Graduate Students</h2>
+<h2>Graduate Students Mentored, Supervised or Sponsored</h2>
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
 	Xitian Cai
 </div>
@@ -494,9 +494,7 @@ subtitle:
 <p>MS Geological Sciences (2004), University of Texas at Austin.</p>
 <p><em>Thesis Topic:</em> “Temporal and Spatial Variability of Snow Cover as Determined from Data and Models.”</p>
 
-<br><br><br><br><br><br>
 
-<h2>Students Mentored, Supervised or Sponsored</h2>
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
 	Gang Zhang
 </div>
