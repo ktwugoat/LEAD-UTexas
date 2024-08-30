@@ -28,10 +28,10 @@ subtitle:
 		<img src="/img/X_icon.svg" width="auto" height="20" alt="X"/>
 	</a>
 <span style="font-size: 14px !important; color: #555;"><a href="https://apps.jsg.utexas.edu/profiles/files/cv/CV_Yang_DGS.pdf" target="_blank">CV</a> | <a href="http://scholar.google.com/citations?user=ZncpGB0AAAAJ&hl=en" target="_blank" >Google Scholar</a>  | <a href="https://www.jsg.utexas.edu/researcher/zong-liang_yang" target="_blank" >Web</a> </span>
-
 </div>
+
 <br>
-<img src="/people/images/Liang.jpg" width="150" height="auto" align="left" hspace="20" />
+<img src="/people/images/Liang.jpg" width="150" height="auto" align="left" hspace="20"/>
 
 <span style="font-size: 15px !important; color: #555;">
 Dr. Zong-Liang Yang is a Professor in the Department of Earth and Planetary Sciences at The University of Texas at Austin, where he holds the prestigious John A. and Katherine G. Jackson Chair in Earth System Sciences. With a distinguished career in the field of climate and environmental sciences, Dr. Yang’s research focuses on understanding and modeling land surface processes and their interactions with the atmosphere.</span>
