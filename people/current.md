@@ -36,24 +36,31 @@ subtitle:
 
 <h2>Postdocs</h2>
 <hr>
+
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; text-align: center;">
 
 <div>
-    <img src="/people/images/NaveenSudharsan.jpg" alt="Naveen Sudharsan" style="width: 100%; max-width: 150px;"/>
-    <h4><a href="https://lead-utexas.github.io/people/members/NaveenSudharsan/">Naveen Sudharsan</a></h4>
+    <a href="https://lead-utexas.github.io/people/members/NaveenSudharsan/">
+        <img src="/people/images/NaveenSudharsan.jpg" alt="Naveen Sudharsan" style="width: 100%; max-width: 150px;"/>
+        <h4>Naveen Sudharsan</h4>
+    </a>
     <p>Postdoc</p>
 </div>
 
 <div>
-    <img src="/people/images/ShyamaMohanty.jpg" alt="Shyama Mohanty" style="width: 100%; max-width: 150px;"/>
-    <h4><a href="https://lead-utexas.github.io/people/members/ShyamaMohanty/">Shyama Mohanty</a></h4>
+    <a href="https://lead-utexas.github.io/people/members/ChenxiHu/">
+        <img src="/people/images/ChenxiHu.jpg" alt="Chenxi Hu" style="width: 100%; max-width: 150px;"/>
+        <h4>Chenxi Hu</h4>
+    </a>
     <p>Postdoc (starting in 2024)</p>
 </div>
 
 <div>
-    <img src="/people/images/ChenxiHu.jpg" alt="Chenxi Hu" style="width: 100%; max-width: 150px;"/>
-    <h4><a href="https://lead-utexas.github.io/people/members/ChenxiHu/">Chenxi Hu</a></h4>
-    <p>Postdoc (starting in 2024)</p>
+    <a href="https://lead-utexas.github.io/people/members/ShyamaMohanty/">
+        <img src="/people/images/ShyamaMohanty.jpg" alt="Shyama Mohanty" style="width: 100%; max-width: 150px;"/>
+        <h4>Shyama Mohanty</h4>
+    </a>
+    <p>Postdoc (starting in March 2024)</p>
 </div>
 
 </div>
@@ -90,7 +97,6 @@ subtitle:
 
 <br><br><br>
 
-
 <p id="Harsh"></p>
 
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
@@ -102,35 +108,6 @@ subtitle:
     </a>
 <span style="font-size: 14px !important; color: #555;">PhD From ??</span>
 </div>
-
-<br><br><br>
-
-<p id="Wu"></p>
-
-<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
-	Koutian Wu
-</div>
-<div style="font-size: 15px !important; color: #555; float:left;">
-	<a href="mailto:ktwu@utexas.edu"  target="_top" title="email" style="margin-right: 8px">
-		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
-	</a>
-	<a href="https://github.com/ktwu01/" target="_blank" title="KW github" style="margin-right: 8px">
-		<img src="/img/github-brands.png" width="auto" height="20" alt="github"/>
-	</a>
-	<a href="https://twitter.com/ktwu01/" target="_blank" title="ktwu01 X" style="margin-right: 8px">
-		<img src="/img/twitter-icon.png" width="auto" height="20" alt="X"/>
-	</a>
-<span style="font-size: 14px !important; color: #555;"><a href="/pdfs/mockCV.pdf" target="_blank">CV</a> | <a href="https://scholar.google.com/citations?hl=en&user=s9w1k-cAAAAJ" target="_blank" >Google Scholar</a>  | <a href="https://ktwu01.github.io/" target="_blank" >Web</a> </span>
-</div>
-
-<br>
-
-<img src="/people/images/0KW_Profile_4_3.jpg" width="150" height="auto" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">Koutian Wu (Wu) is a first-year Ph.D. student in the LEAD Group at UT Austin. Office at JGB 5.320. He is interested in enhancing the capabilities of land-climate models, and ultimately aims to combine high-resolution modeling, in-situ measurements, and remote sensing to address emerging climate challenges. Currently, Wu is working on integrating rock moisture and wood moisture into the hydrological cycle using the Noah-MP model.</span>
-
-<span style="font-size: 15px !important; color: #555;">Wu presented his undergraduate work at the AGU 2023, where he was the first author in a poster session. He has presented case studies at the Top Innovative Talents Symposium at Tsinghua University.</span>
-
-<span style="font-size: 15px !important; color: #555;">Wu graduated from the School of Earth and Space Sciences at the University of Science and Technology of China (USTC) in 2024. He has been recognized with the "Honorary Rank" by USTC.</span>
 
 <br><br><br>
 
@@ -244,6 +221,36 @@ subtitle:
     </a>
 <span style="font-size: 14px !important; color: #555;">PhD From 2022</span>
 </div>
+
+<br><br><br>
+
+
+<p id="Wu"></p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Koutian Wu
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:ktwu@utexas.edu"  target="_top" title="email" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+	<a href="https://github.com/ktwu01/" target="_blank" title="KW github" style="margin-right: 8px">
+		<img src="/img/github-brands.png" width="auto" height="20" alt="github"/>
+	</a>
+	<a href="https://twitter.com/ktwu01/" target="_blank" title="ktwu01 X" style="margin-right: 8px">
+		<img src="/img/twitter-icon.png" width="auto" height="20" alt="X"/>
+	</a>
+<span style="font-size: 14px !important; color: #555;"><a href="/pdfs/mockCV.pdf" target="_blank">CV</a> | <a href="https://scholar.google.com/citations?hl=en&user=s9w1k-cAAAAJ" target="_blank" >Google Scholar</a>  | <a href="https://ktwu01.github.io/" target="_blank" >Web</a> </span>
+</div>
+
+<br>
+
+<img src="/people/images/0KW_Profile_4_3.jpg" width="150" height="auto" align="left" hspace="20" />
+<span style="font-size: 15px !important; color: #555;">Koutian Wu (Wu) is a first-year Ph.D. student in the LEAD Group at UT Austin. Office at JGB 5.320. He is interested in enhancing the capabilities of land-climate models, and ultimately aims to combine high-resolution modeling, in-situ measurements, and remote sensing to address emerging climate challenges. Currently, Wu is working on integrating rock moisture and wood moisture into the hydrological cycle using the Noah-MP model.</span>
+
+<span style="font-size: 15px !important; color: #555;">Wu presented his undergraduate work at the AGU 2023, where he was the first author in a poster session. He has presented case studies at the Top Innovative Talents Symposium at Tsinghua University.</span>
+
+<span style="font-size: 15px !important; color: #555;">Wu graduated from the School of Earth and Space Sciences at the University of Science and Technology of China (USTC) in 2024. He has been recognized with the "Honorary Rank" by USTC.</span>
 
 <br><br><br>
 
