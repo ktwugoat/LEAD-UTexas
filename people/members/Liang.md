@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dr. Zong-Liang Yang's homepage
+title: Dr. Zong-Liang Yang
 subtitle: 
 ---
 
