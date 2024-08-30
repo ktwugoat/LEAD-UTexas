@@ -60,7 +60,7 @@ subtitle:
 <p>Ph.D., Chinese Academy of Sciences (2013).</p>
 <p><em>Research interests:</em> land data assimilation, soil moisture, remote sensing, field measurement, Tibetan Plateau hydroclimatology.</p>
 
-<h2>Current Graduate Students</h2>
+<h2>Former Graduate Students</h2>
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
 	Xitian Cai
 </div>
