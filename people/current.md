@@ -45,17 +45,89 @@ Dr. Zong-Liang Yang is a Professor in the Department of Earth and Planetary Scie
 
 <b><span style="font-size: 25px !important; color: #BD0026;">Graduate students</span></b>
 <hr>
-
-
-<p id="Chien"></p>
+<p id="NaveenSudharsan"></p>
 
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
-	Chieh-Chen Lee
+    Naveen Sudharsan
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+    <a href="mailto:naveens@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+        <img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+    </a>
+<span style="font-size: 14px !important; color: #555;">Postdoc</span>
 </div>
 
 <br><br><br>
 
-<p id="Koutian"></p>
+<p id="ChenxiHu"></p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+    Chenxi Hu
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+    <span style="font-size: 14px !important; color: #555;">Postdoc from 2024</span>
+</div>
+
+<br><br><br>
+
+<p id="ShyamaMohanty"></p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+    Shyama Mohanty
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+    <a href="mailto:shyamamohanty@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+        <img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+    </a>
+<span style="font-size: 14px !important; color: #555;">Postdoc from March 2024, Indian, her husband is a UCLA postdoc</span>
+</div>
+
+<br><br><br>
+
+<p id="Harsh"></p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+    Harsh
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+    <a href="mailto:harsh.kamath@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+        <img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+    </a>
+<span style="font-size: 14px !important; color: #555;">PhD From ??</span>
+</div>
+
+<br><br><br>
+
+<p id="XinxinSui"></p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+    Xinxin Sui
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+    <a href="mailto:suixinxin@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+        <img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+    </a>
+<span style="font-size: 14px !important; color: #555;">PhD From 2020, Civil Engineering, co-advised by Liang & Dev, JGB 5.346</span>
+</div>
+
+<br><br><br>
+
+<p id="ChiehChenLee"></p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+    Chieh-Chen Lee
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+    <a href="mailto:cclee@utexas.edu" target="_top" title="email" style="margin-right: 8px">
+        <img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+    </a>
+<span style="font-size: 14px !important; color: #555;">PhD From 2021</span>
+</div>
+
+<br><br><br>
+
+
+<p id="Wu"></p>
 
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
 	Koutian Wu
@@ -76,11 +148,11 @@ Dr. Zong-Liang Yang is a Professor in the Department of Earth and Planetary Scie
 <br>
 
 <img src="/people/images/0KW_Profile_4_3.jpg" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">Koutian Wu is a first-year Ph.D. student in the LEAD Group at UT Austin. He is interested in enhancing the capabilities of land-climate models, and ultimately aims to combine kilometer-scale modeling, in-situ measurements, and remote sensing to address emerging climate challenges. Currently, Koutian is working on integrating rock moisture and wood moisture into the hydrological cycle using the Noah-MP model.</span>
+<span style="font-size: 15px !important; color: #555;">Koutian Wu (Wu) is a first-year Ph.D. student in the LEAD Group at UT Austin. He is interested in enhancing the capabilities of land-climate models, and ultimately aims to combine kilometer-scale modeling, in-situ measurements, and remote sensing to address emerging climate challenges. Currently, Wu is working on integrating rock moisture and wood moisture into the hydrological cycle using the Noah-MP model.</span>
 
-<span style="font-size: 15px !important; color: #555;">Koutian presented his undergraduate work at the AGU 2023, where he was the first author in a poster session. He has presented case studies at the Top Innovative Talents Symposium at Tsinghua University.</span>
+<span style="font-size: 15px !important; color: #555;">Wu presented his undergraduate work at the AGU 2023, where he was the first author in a poster session. He has presented case studies at the Top Innovative Talents Symposium at Tsinghua University.</span>
 
-<span style="font-size: 15px !important; color: #555;">Koutian graduated from the School of Earth and Space Sciences at the University of Science and Technology of China (USTC) in 2024. He has been recognized with the "Outstanding Undergraduate Honor" and the title of "Excellent Graduate" by USTC.</span>
+<span style="font-size: 15px !important; color: #555;">Wu graduated from the School of Earth and Space Sciences at the University of Science and Technology of China (USTC) in 2024. He has been recognized with the "Honorary Rank" by USTC.</span>
 
 <br><br><br>
 
@@ -89,7 +161,7 @@ Dr. Zong-Liang Yang is a Professor in the Department of Earth and Planetary Scie
 <hr>
 
 
-<br><br><br><br>
+<br><br><br>
 
 
 <b><span style="font-size: 25px !important; color: #BD0026;">Undergraduate students</span></b>
