@@ -21,10 +21,11 @@ subtitle:
 	Dr. Zong-Liang Yang
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
-	<a href="https://lead-utexas.github.io/about/contact"  target="_top" title="liang@jsg.utexas.edu" style="margin-right: 8px">
-		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
-	</a>
-	<a href="https://twitter.com/zlyang/" target="_blank" title="zlyang X" style="margin-right: 8px">
+	<a href="https://lead-utexas.github.io/about/contact"  target="_top" title="" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/></a>
+	<a href="https://www.linkedin.com/in/zoyang/" target="_blank" title="" style="margin-right: 8px">
+		<img src="/img/linkedin-icon.png" width="auto" height="20" alt="LinkedIn"/>
+	<a href="https://twitter.com/zlyang/" target="_blank" title="" style="margin-right: 8px">
 		<img src="/img/twitter-icon.png" width="auto" height="20" alt="X"/>
 	</a>
 <span style="font-size: 14px !important; color: #555;"><a href="https://apps.jsg.utexas.edu/profiles/files/cv/CV_Yang_DGS.pdf" target="_blank">CV</a> | <a href="http://scholar.google.com/citations?user=ZncpGB0AAAAJ&hl=en" target="_blank" >Google Scholar</a>  | <a href="https://www.jsg.utexas.edu/researcher/zong-liang_yang" target="_blank" >Web</a> </span>
