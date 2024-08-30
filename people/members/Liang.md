@@ -1,3 +1,9 @@
+---
+layout: page
+title: Dr. Zong-Liang Yang's homepage
+subtitle: 
+---
+
 <div style="float:left; margin-right: 20px; font-weight: bold;">
     Dr. Zong-Liang Yang
 </div>
@@ -8,12 +14,10 @@
         <img src="/img/linkedin-icon.png" height="20" alt="LinkedIn"/></a>
     <a href="https://twitter.com/zlyang/" target="_blank" title="">
         <img src="/img/twitter-icon.png" height="20" alt="X"/></a>
-</div>
-<span>
     <a href="https://apps.jsg.utexas.edu/profiles/files/cv/CV_Yang_DGS.pdf" target="_blank">CV</a> | 
     <a href="http://scholar.google.com/citations?user=ZncpGB0AAAAJ&hl=en" target="_blank">Google Scholar</a> | 
     <a href="https://www.jsg.utexas.edu/researcher/zong-liang_yang" target="_blank">Web</a>
-</span>
+</div>
 <br>
 <img src="/people/images/Liang.jpg" width="150" align="left" hspace="20"/>
 
