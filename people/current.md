@@ -4,12 +4,17 @@ title: LEAD Group Members
 subtitle: 
 ---
 
-<img src="/people/images/LEAD-GroupPhoto.jpg" width="450" align="center" hspace="20" target="_blank" title="LEAD-GroupPhoto" />
+<b><span style="font-size: 25px !important; color: #BD0026;">NOTICE: EMAILS AND LINKS CAN BE WRONG, PLEASE CHECK</span></b>
 
-<p id="Liang"></p>
+<br><br><br>
+
+
+<img src="/people/images/LEAD-GroupPhoto.jpg" width="450" align="center" hspace="20" target="_blank" title="LEAD-GroupPhoto" />
 
 <b><span style="font-size: 25px !important; color: #BD0026;">Faculty</span></b>
 <hr>
+
+<p id="Liang"></p>
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
 	Dr. Zong-Liang Yang
 </div>
