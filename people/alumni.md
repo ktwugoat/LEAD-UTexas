@@ -24,6 +24,7 @@ subtitle:
 
 
 <h2>Postdoctoral Fellows or Research Associates</h2>
+<hr>
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
 	Hua Su
 </div>
@@ -209,6 +210,7 @@ subtitle:
 <br><br><br><br><br><br>
 
 <h2>Graduate Students Mentored, Supervised or Sponsored</h2>
+<hr>
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
 	Xitian Cai
 </div>
@@ -604,6 +606,7 @@ subtitle:
 <br><br><br><br><br><br>
 
 <h2>Visiting Scholars</h2>
+<hr>
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
 	Xiaodan Guan
 </div>
@@ -664,9 +667,6 @@ subtitle:
 <p>China University of Geosciences, Beijing, China. November 2003 – April 2004.</p>
 <p><em>Research interests:</em> “Proxy data and modeling of the Holocene climate in the source area of the Yellow River, Northeast Tibetan Plateau.”</p>
 
-<br><br><br><br><br><br>
-
-<h2>Visitors</h2>
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
 	Jinjun Ji
 </div>
@@ -787,7 +787,7 @@ subtitle:
 
 <br><br><br><br><br><br><br>
 
-<b><span style="font-size: 25px !important; color: #BD0026;">Undergraduate students</span></b>
+<h2>Undergraduate students</h2>
 <hr>
 
 <br><br><br><br><br><br>
