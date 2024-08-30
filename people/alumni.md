@@ -19,7 +19,7 @@ subtitle:
 <br><br><br><br><br><br>
 
 
-<h2>Former Postdoctoral Fellows or Research Associates</h2>
+<h2>Postdoctoral Fellows or Research Associates</h2>
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
 	Hua Su
 </div>
@@ -788,6 +788,7 @@ subtitle:
 <p>Ph.D., University of Iowa (1998).</p>
 <p><em>Research interests:</em> Air Quality (November 2004 to September 2005).</p>
 
+<br><br><br><br><br><br><br>
 
 <b><span style="font-size: 25px !important; color: #BD0026;">Undergraduate students</span></b>
 <hr>
