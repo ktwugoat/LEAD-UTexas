@@ -8,7 +8,45 @@ Feel free to create a copy of this .md file and modify it to make your homepage!
 
 You can also make your website based on the guidance at [jsg profile](https://eps.jsg.utexas.edu/files/Updating-JSG-Profile.pdf).
 
-# Team
+
+# Team v1
+
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; text-align: center;">
+
+<div>
+    <img src="https://your-image-url-here.com" alt="Person 1" style="width: 100%; max-width: 150px;"/>
+    <h3>Person 1</h3>
+    <p>Role</p>
+    <p><em>Specialization</em></p>
+</div>
+
+<div>
+    <img src="https://your-image-url-here.com" alt="Person 2" style="width: 100%; max-width: 150px;"/>
+    <h3>Person 2</h3>
+    <p>Role</p>
+    <p><em>Specialization</em></p>
+</div>
+
+<div>
+    <img src="https://your-image-url-here.com" alt="Person 3" style="width: 100%; max-width: 150px;"/>
+    <h3>Person 3</h3>
+    <p>Role</p>
+    <p><em>Specialization</em></p>
+</div>
+
+<div>
+    <img src="https://your-image-url-here.com" alt="Person 4" style="width: 100%; max-width: 150px;"/>
+    <h3>Person 4</h3>
+    <p>Role</p>
+    <p><em>Specialization</em></p>
+</div>
+
+<!-- Repeat the same structure for all 16 people -->
+
+</div>
+
+
+# Team v0
 
 <div style="display: flex; justify-content: space-around; text-align: center; flex-wrap: wrap;">
 
