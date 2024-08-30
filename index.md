@@ -20,5 +20,4 @@ subtitle: land surface processes, climate modeling, land-atmosphere interaction,
 
 We strive to advance understanding and provide insights into these critical questions, contributing to the broader field of Earth system sciences.
 
-<a href="https://lead-utexas.github.io/about/contact">Contact</a>
-<a href="https://www.w3schools.com">Visit W3Schools</a>
+<h2><a href="https://lead-utexas.github.io/about/contact">Contact/Inquiries</a></h2>
