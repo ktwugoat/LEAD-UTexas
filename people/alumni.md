@@ -4,7 +4,7 @@ title: LEAD Group Alumni
 subtitle: 
 ---
 
-<b><span style="font-size: 25px !important; color: #BD0026;">NOTICE: EMAIL AND LINKS CAN BE WRONG, PLEASE CHECK</span></b>
+<b><span style="font-size: 25px !important; color: #BD0026;">NOTICE: EMAILS AND LINKS CAN BE WRONG, PLEASE CHECK</span></b>
 
 <br><br><br>
 
