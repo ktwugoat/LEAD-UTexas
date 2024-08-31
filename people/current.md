@@ -6,7 +6,7 @@ subtitle:
 
 <h2>NOTICE: EMAILS AND LINKS CAN BE WRONG, PLEASE CHECK BY YOURSELLF</h2>
 <h2>NOTICE: SORT OF NAMES CAN BE WRONG, PLEASE CHECK BY YOURSELLF</h2>
-<h2><a href="https://lead-utexas.github.io/people/members/Liang/" target="_blank" >Please ref to Website of Liang</a> </h2>
+<h2><a href="https://lead-utexas.github.io/people/members/Liang/" target="_blank" >Please ref to website of Liang</a> </h2>
 
 <br><!-- <br>-->
 
@@ -107,7 +107,25 @@ V0
       <img src="/people/images/Liang.jpg" alt="Xinxin Sui" style="width: 100%;"/>
       <h4>Xinxin Sui</h4>
     </a>
-    <p>PhD from 2020</p>
+    <p>PhD from 2021</p>
+    <p><em>Specialization</em></p>
+  </div>
+
+  <div style="width: 100%; max-width: 200px; margin: 0 auto;">
+    <a href="#">
+      <img src="/people/images/Liang.jpg" alt="Mahmoud Mbarak" style="width: 100%;"/>
+      <h4>Mahmoud Mbarak</h4>
+    </a>
+    <p>PhD from 2021</p>
+    <p><em>Specialization</em></p>
+  </div>
+  
+  <div style="width: 100%; max-width: 200px; margin: 0 auto;">
+    <a href="#">
+      <img src="/people/images/Liang.jpg" alt="Harsh" style="width: 100%;"/>
+      <h4>Harsh Kamath</h4>
+    </a>
+    <p>PhD from 2021</p>
     <p><em>Specialization</em></p>
   </div>
 
@@ -116,7 +134,7 @@ V0
       <img src="/people/images/Liang.jpg" alt="Chieh-Chen Lee" style="width: 100%;"/>
       <h4>Chieh-Chen Lee</h4>
     </a>
-    <p>PhD from 2021</p>
+    <p>PhD from 2022</p>
     <p><em>Specialization</em></p>
   </div>
 
@@ -140,6 +158,15 @@ V0
 
   <div style="width: 100%; max-width: 200px; margin: 0 auto;">
     <a href="#">
+      <img src="/people/images/Liang.jpg" alt="Sasanka Talukdar" style="width: 100%;"/>
+      <h4>Sasanka Talukdar</h4>
+    </a>
+    <p>PhD from 2022</p>
+    <p><em>Specialization</em></p>
+  </div>
+
+  <div style="width: 100%; max-width: 200px; margin: 0 auto;">
+    <a href="#">
       <img src="/people/images/Liang.jpg" alt="Shokoufeh Khojeh" style="width: 100%;"/>
       <h4>Shokoufeh Khojeh</h4>
     </a>
@@ -147,32 +174,6 @@ V0
     <p><em>Specialization</em></p>
   </div>
 
-  <div style="width: 100%; max-width: 200px; margin: 0 auto;">
-    <a href="#">
-      <img src="/people/images/Liang.jpg" alt="Harsh" style="width: 100%;"/>
-      <h4>Harsh</h4>
-    </a>
-    <p>PhD year not specified</p>
-    <p><em>Specialization</em></p>
-  </div>
-
-  <div style="width: 100%; max-width: 200px; margin: 0 auto;">
-    <a href="#">
-      <img src="/people/images/Liang.jpg" alt="Sasanka Talukdar" style="width: 100%;"/>
-      <h4>Sasanka Talukdar</h4>
-    </a>
-    <p>PhD year not specified</p>
-    <p><em>Specialization</em></p>
-  </div>
-
-  <div style="width: 100%; max-width: 200px; margin: 0 auto;">
-    <a href="#">
-      <img src="/people/images/Liang.jpg" alt="Raymond Luong" style="width: 100%;"/>
-      <h4>Raymond Luong</h4>
-    </a>
-    <p>PhD year not specified</p>
-    <p><em>Specialization</em></p>
-  </div>
 
   <div style="width: 100%; max-width: 200px; margin: 0 auto;">
     <a href="#">
@@ -187,15 +188,6 @@ V0
     <a href="#">
       <img src="/people/images/Liang.jpg" alt="Prudhvi" style="width: 100%;"/>
       <h4>Prudhvi</h4>
-    </a>
-    <p>PhD year not specified</p>
-    <p><em>Specialization</em></p>
-  </div>
-
-  <div style="width: 100%; max-width: 200px; margin: 0 auto;">
-    <a href="#">
-      <img src="/people/images/Liang.jpg" alt="Mahmoud Mbarak" style="width: 100%;"/>
-      <h4>Mahmoud Mbarak</h4>
     </a>
     <p>PhD year not specified</p>
     <p><em>Specialization</em></p>
@@ -228,6 +220,17 @@ V0
 
 <h2>Undergraduate students</h2>
 <hr>
+
+
+  <div style="width: 100%; max-width: 200px; margin: 0 auto;">
+    <a href="#">
+      <img src="/people/images/Liang.jpg" alt="Raymond Luong" style="width: 100%;"/>
+      <h4>Raymond Luong</h4>
+    </a>
+    <p>PhD year not specified</p>
+    <p><em>Specialization</em></p>
+  </div>
+
 
 <p id="JingxinLiang"></p>
 
