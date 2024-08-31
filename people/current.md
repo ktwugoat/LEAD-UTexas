@@ -64,11 +64,127 @@ subtitle:
     <p><em>Specialization</em></p>
 </div>
 
+
+
+<div style="width: 100%; max-width: 200px; margin: 0 auto;">
+<a href="#">
+	<img src="/people/images/Liang.jpg" alt="Manmeet" style="width: 100%;"/>
+<h4>Manmeet</h4>
+</a>
+	<p>PhD year not specified</p>
+	<p><em>Specialization</em></p>
+</div>
+
 </div>
 
 
 <h2>Graduate students</h2>
 <hr>
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; text-align: center;">
+
+  <div style="width: 100%; max-width: 200px; margin: 0 auto;">
+    <a href="https://lead-utexas.github.io/people/members/Liang/">
+      <img src="/people/images/Liang.jpg" alt="Caleb Earl Adams" style="width: 100%;"/>
+      <h4>Caleb Earl Adams</h4>
+    </a>
+    <p>PhD starting in 2022</p>
+    <p><em>Specialization</em></p>
+  </div>
+  
+  <div style="width: 100%; max-width: 200px; margin: 0 auto;">
+    <a href="https://lead-utexas.github.io/people/members/Liang/">
+      <img src="/people/images/Liang.jpg" alt="Jagger Alexander" style="width: 100%;"/>
+      <h4>Jagger Alexander</h4>
+    </a>
+    <p>PhD starting in 2022</p>
+    <p><em>Specialization</em></p>
+  </div>
+
+  <div style="width: 100%; max-width: 200px; margin: 0 auto;">
+    <a href="https://lead-utexas.github.io/people/members/Liang/">
+      <img src="/people/images/Liang.jpg" alt="Harsh" style="width: 100%;"/>
+      <h4>Harsh Kamath</h4>
+    </a>
+    <p>PhD starting in 2021</p>
+    <p><em>Specialization</em></p>
+  </div>
+
+  <div style="width: 100%; max-width: 200px; margin: 0 auto;">
+    <a href="https://lead-utexas.github.io/people/members/Liang/">
+      <img src="/people/images/Liang.jpg" alt="Chieh-Chen Lee" style="width: 100%;"/>
+      <h4>Chieh-Chen Lee</h4>
+    </a>
+    <p>PhD starting in 2022</p>
+    <p><em>Specialization</em></p>
+  </div>
+
+  <div style="width: 100%; max-width: 200px; margin: 0 auto;">
+    <a href="https://lead-utexas.github.io/people/members/Liang/">
+      <img src="/people/images/Liang.jpg" alt="Mahmoud Mbarak" style="width: 100%;"/>
+      <h4>Mahmoud Mbarak</h4>
+    </a>
+    <p>PhD starting in 2021</p>
+    <p><em>Specialization</em></p>
+  </div>
+
+  <div style="width: 100%; max-width: 200px; margin: 0 auto;">
+    <a href="https://lead-utexas.github.io/people/members/Liang/">
+      <img src="/people/images/Liang.jpg" alt="Sasanka Talukdar" style="width: 100%;"/>
+      <h4>Sasanka Talukdar</h4>
+    </a>
+    <p>PhD starting in 2022</p>
+    <p><em>Specialization</em></p>
+  </div>
+
+  <div style="width: 100%; max-width: 200px; margin: 0 auto;">
+    <a href="https://lead-utexas.github.io/people/members/Liang/">
+      <img src="/people/images/Liang.jpg" alt="Xinxin Sui" style="width: 100%;"/>
+      <h4>Xinxin Sui</h4>
+    </a>
+    <p>PhD starting in 2021</p>
+    <p><em>Specialization</em></p>
+  </div>
+
+  <div style="width: 100%; max-width: 200px; margin: 0 auto;">
+    <a href="https://lead-utexas.github.io/people/members/Liang/">
+      <img src="/people/images/Liang.jpg" alt="Shokoufeh Khojeh" style="width: 100%;"/>
+      <h4>Shokoufeh Khojeh</h4>
+    </a>
+    <p>PhD starting in 2023</p>
+    <p><em>Specialization</em></p>
+  </div>
+
+  <div style="width: 100%; max-width: 200px; margin: 0 auto;">
+    <a href="https://lead-utexas.github.io/people/members/Liang/">
+      <img src="/people/images/Liang.jpg" alt="Rakshith" style="width: 100%;"/>
+      <h4>Rakshith</h4>
+    </a>
+    <p>PhD starting in 2024</p>
+    <p><em>Specialization</em></p>
+  </div>
+
+  <div style="width: 100%; max-width: 200px; margin: 0 auto;">
+    <a href="https://lead-utexas.github.io/people/members/Liang/">
+      <img src="/people/images/Liang.jpg" alt="Koutian Wu" style="width: 100%;"/>
+      <h4>Koutian Wu</h4>
+    </a>
+    <p>PhD starting in 2024</p>
+    <p><em>Specialization</em></p>
+  </div>
+
+  <div style="width: 100%; max-width: 200px; margin: 0 auto;">
+    <a href="https://lead-utexas.github.io/people/members/Liang/">
+      <img src="/people/images/Liang.jpg" alt="Prudhvi" style="width: 100%;"/>
+      <h4>Prudhvi</h4>
+    </a>
+    <p>Master since 2024</p>
+    <p><em>Specialization</em></p>
+  </div>
+
+</div>
+
+
+<!--
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; text-align: center;">
 
   <div style="width: 100%; max-width: 200px; margin: 0 auto;">
@@ -171,6 +287,7 @@ subtitle:
   </div>
 
 </div>
+-->
 
 <br><!-- <br>-->
 
