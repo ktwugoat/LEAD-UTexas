@@ -41,21 +41,30 @@ subtitle:
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; text-align: center;">
 
 <div style="width: 100%; max-width: 200px; margin: 0 auto;">
-    <img src="/people/images/Liang.jpg" alt="Naveen Sudharsan" style="width: 100%;"/>
-    <h4><a href="https://lead-utexas.github.io/people/members/NaveenSudharsan/">Naveen Sudharsan</a></h4>
+<a href="https://lead-utexas.github.io/people/members/NaveenSudharsan/">
+	<img src="/people/images/Liang.jpg" alt="Naveen Sudharsan" style="width: 100%;"/>
+    <h4>Dr. Naveen Sudharsan</h4>
+</a>
     <p>Postdoc</p>
+    <p><em>Specialization</em></p>
 </div>
 
 <div style="width: 100%; max-width: 200px; margin: 0 auto;">
-    <img src="/people/images/Liang.jpg" alt="Chenxi Hu" style="width: 100%;"/>
-    <h4><a href="https://lead-utexas.github.io/people/members/ChenxiHu/">Chenxi Hu</a></h4>
+<a href="https://lead-utexas.github.io/people/members/ChenxiHu/">
+	<img src="/people/images/Liang.jpg" alt="Chenxi Hu" style="width: 100%;"/>
+    <h4>Dr. Chenxi Hu</h4>
+</a>
     <p>Postdoc (starting in 2024)</p>
+    <p><em>Specialization</em></p>
 </div>
 
 <div style="width: 100%; max-width: 200px; margin: 0 auto;">
-    <img src="/people/images/Liang.jpg" alt="Shyama Mohanty" style="width: 100%;"/>
-    <h4><a href="https://lead-utexas.github.io/people/members/ShyamaMohanty/">Shyama Mohanty</a></h4>
-    <p>Postdoc (starting in March 2024)</p>
+<a href="https://lead-utexas.github.io/people/members/ShyamaMohanty/">
+	<img src="/people/images/Liang.jpg" alt="Shyama Mohanty" style="width: 100%;"/>
+    <h4>Dr. Shyama Mohanty</h4>
+</a>
+    <p>Postdoc (starting in 2024)</p>
+    <p><em>Specialization</em></p>
 </div>
 
 </div>
