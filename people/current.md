@@ -6,7 +6,7 @@ subtitle:
 
 <h2>NOTICE: EMAILS AND LINKS CAN BE WRONG, PLEASE CHECK BY YOURSELLF</h2>
 <h2>NOTICE: SORT OF NAMES CAN BE WRONG, PLEASE CHECK BY YOURSELLF</h2>
-<h2><a href="https://lead-utexas.github.io/people/members/Liang/" target="_blank" >Example Personal Website of Liang</a> </h2>
+<h2><a href="https://lead-utexas.github.io/people/members/Liang/" target="_blank" >Please ref to Website of Liang</a> </h2>
 
 <br><!-- <br>-->
 
@@ -14,7 +14,6 @@ subtitle:
 
 <h2>Faculty</h2>
 <hr>
-
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; text-align: center;">
 
