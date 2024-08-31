@@ -39,7 +39,7 @@ subtitle:
 
 <div style="width: 100%; max-width: 200px; margin: 0 auto;">
 <a href="https://lead-utexas.github.io/people/members/NaveenSudharsan/">
-	<img src="/people/images/Liang.jpg" alt="Naveen Sudharsan" style="width: 100%;"/>
+     <img src="/people/images/Liang.jpg" alt="Naveen Sudharsan" style="width: 100%;"/>
     <h4>Dr. Naveen Sudharsan</h4>
 </a>
     <p>Postdoc</p>
@@ -48,7 +48,7 @@ subtitle:
 
 <div style="width: 100%; max-width: 200px; margin: 0 auto;">
 <a href="https://lead-utexas.github.io/people/members/ChenxiHu/">
-	<img src="/people/images/Liang.jpg" alt="Chenxi Hu" style="width: 100%;"/>
+     <img src="/people/images/Liang.jpg" alt="Chenxi Hu" style="width: 100%;"/>
     <h4>Dr. Chenxi Hu</h4>
 </a>
     <p>Postdoc starting in 2024</p>
@@ -57,7 +57,7 @@ subtitle:
 
 <div style="width: 100%; max-width: 200px; margin: 0 auto;">
 <a href="https://lead-utexas.github.io/people/members/ShyamaMohanty/">
-	<img src="/people/images/Liang.jpg" alt="Shyama Mohanty" style="width: 100%;"/>
+     <img src="/people/images/Liang.jpg" alt="Shyama Mohanty" style="width: 100%;"/>
     <h4>Dr. Shyama Mohanty</h4>
 </a>
     <p>Postdoc starting in 2024</p>
@@ -67,12 +67,12 @@ subtitle:
 
 
 <div style="width: 100%; max-width: 200px; margin: 0 auto;">
-<a href="#">
-	<img src="/people/images/Liang.jpg" alt="Manmeet" style="width: 100%;"/>
+<a href="https://lead-utexas.github.io/people/members/Liang/">
+     <img src="/people/images/Liang.jpg" alt="Manmeet" style="width: 100%;"/>
 <h4>Manmeet</h4>
 </a>
-	<p>PhD year not specified</p>
-	<p><em>Specialization</em></p>
+     <p>PhD year not specified</p>
+     <p><em>Specialization</em></p>
 </div>
 
 </div>
@@ -188,7 +188,7 @@ subtitle:
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; text-align: center;">
 
   <div style="width: 100%; max-width: 200px; margin: 0 auto;">
-    <a href="#">
+    <a href="https://lead-utexas.github.io/people/members/Liang/">
       <img src="/people/images/Liang.jpg" alt="Xinxin Sui" style="width: 100%;"/>
       <h4>Xinxin Sui</h4>
     </a>
@@ -197,7 +197,7 @@ subtitle:
   </div>
 
   <div style="width: 100%; max-width: 200px; margin: 0 auto;">
-    <a href="#">
+    <a href="https://lead-utexas.github.io/people/members/Liang/">
       <img src="/people/images/Liang.jpg" alt="Mahmoud Mbarak" style="width: 100%;"/>
       <h4>Mahmoud Mbarak</h4>
     </a>
@@ -206,7 +206,7 @@ subtitle:
   </div>
   
   <div style="width: 100%; max-width: 200px; margin: 0 auto;">
-    <a href="#">
+    <a href="https://lead-utexas.github.io/people/members/Liang/">
       <img src="/people/images/Liang.jpg" alt="Harsh" style="width: 100%;"/>
       <h4>Harsh Kamath</h4>
     </a>
@@ -215,7 +215,7 @@ subtitle:
   </div>
 
   <div style="width: 100%; max-width: 200px; margin: 0 auto;">
-    <a href="#">
+    <a href="https://lead-utexas.github.io/people/members/Liang/">
       <img src="/people/images/Liang.jpg" alt="Chieh-Chen Lee" style="width: 100%;"/>
       <h4>Chieh-Chen Lee</h4>
     </a>
@@ -224,7 +224,7 @@ subtitle:
   </div>
 
   <div style="width: 100%; max-width: 200px; margin: 0 auto;">
-    <a href="#">
+    <a href="https://lead-utexas.github.io/people/members/Liang/">
       <img src="/people/images/Liang.jpg" alt="Jagger Alexander" style="width: 100%;"/>
       <h4>Jagger Alexander</h4>
     </a>
@@ -233,7 +233,7 @@ subtitle:
   </div>
 
   <div style="width: 100%; max-width: 200px; margin: 0 auto;">
-    <a href="#">
+    <a href="https://lead-utexas.github.io/people/members/Liang/">
       <img src="/people/images/Liang.jpg" alt="Caleb Earl Adams" style="width: 100%;"/>
       <h4>Caleb Earl Adams</h4>
     </a>
@@ -242,7 +242,7 @@ subtitle:
   </div>
 
   <div style="width: 100%; max-width: 200px; margin: 0 auto;">
-    <a href="#">
+    <a href="https://lead-utexas.github.io/people/members/Liang/">
       <img src="/people/images/Liang.jpg" alt="Sasanka Talukdar" style="width: 100%;"/>
       <h4>Sasanka Talukdar</h4>
     </a>
@@ -251,7 +251,7 @@ subtitle:
   </div>
 
   <div style="width: 100%; max-width: 200px; margin: 0 auto;">
-    <a href="#">
+    <a href="https://lead-utexas.github.io/people/members/Liang/">
       <img src="/people/images/Liang.jpg" alt="Shokoufeh Khojeh" style="width: 100%;"/>
       <h4>Shokoufeh Khojeh</h4>
     </a>
@@ -260,7 +260,7 @@ subtitle:
   </div>
 
   <div style="width: 100%; max-width: 200px; margin: 0 auto;">
-    <a href="#">
+    <a href="https://lead-utexas.github.io/people/members/Liang/">
       <img src="/people/images/Liang.jpg" alt="Rakshith" style="width: 100%;"/>
       <h4>Rakshith</h4>
     </a>
@@ -269,7 +269,7 @@ subtitle:
   </div>
 
   <div style="width: 100%; max-width: 200px; margin: 0 auto;">
-    <a href="#">
+    <a href="https://lead-utexas.github.io/people/members/Liang/">
       <img src="/people/images/Liang.jpg" alt="Koutian Wu" style="width: 100%;"/>
       <h4>Koutian Wu</h4>
     </a>
@@ -278,7 +278,7 @@ subtitle:
   </div>
 
   <div style="width: 100%; max-width: 200px; margin: 0 auto;">
-    <a href="#">
+    <a href="https://lead-utexas.github.io/people/members/Liang/">
       <img src="/people/images/Liang.jpg" alt="Prudhvi" style="width: 100%;"/>
       <h4>Prudhvi</h4>
     </a>
@@ -293,64 +293,42 @@ subtitle:
 
 <h2>Undergraduate students</h2>
 <hr>
-
-
-  <div style="width: 100%; max-width: 200px; margin: 0 auto;">
-    <a href="#">
-      <img src="/people/images/Liang.jpg" alt="Raymond Luong" style="width: 100%;"/>
-      <h4>Raymond Luong</h4>
-    </a>
-    <p>undergrad year since 2023?</p>
-    <p><em>Specialization</em></p>
-  </div>
-
-
-<p id="JingxinLiang"></p>
-
-<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
-    Jingxin Liang
-</div>
-<div style="font-size: 15px !important; color: #555; float:left;">
-    <a href="mailto:liangjx0621@utexas.edu" target="_top" title="email" style="margin-right: 8px">
-        <img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
-    </a>
-<span style="font-size: 14px !important; color: #555;">Undergrad starting in 2021</span>
-</div>
-
-<br><!-- <br>-->
-
-
-
-<p id="DannyXu"></p>
-
-<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
-    Danny Xu
-</div>
-<div style="font-size: 15px !important; color: #555; float:left;">
-    <a href="mailto:dannyxu@utexas.edu" target="_top" title="email" style="margin-right: 8px">
-        <img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
-    </a>
-<span style="font-size: 14px !important; color: #555;">Undergrad starting in 20??</span>
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; text-align: center;">
+     <div style="width: 100%; max-width: 200px; margin: 0 auto;">
+         <a href="https://lead-utexas.github.io/people/members/Liang/">
+           <img src="/people/images/Liang.jpg" alt="Jingxin Liang" style="width: 100%;"/>
+           <h4>Jingxin Liang</h4>
+         </a>
+         <p>Undergrad starting in 2021</p>
+         <p><em>Specialization</em></p>
+     </div>
+     <div style="width: 100%; max-width: 200px; margin: 0 auto;">
+         <a href="https://lead-utexas.github.io/people/members/Liang/">
+           <img src="/people/images/Liang.jpg" alt="Raymond Luong" style="width: 100%;"/>
+           <h4>Raymond Luong</h4>
+         </a>
+         <p>Undergrad starting in 2023?</p>
+         <p><em>Specialization</em></p>
+     </div>
+     <div style="width: 100%; max-width: 200px; margin: 0 auto;">
+         <a href="https://lead-utexas.github.io/people/members/Liang/">
+           <img src="/people/images/Liang.jpg" alt="Danny Xu" style="width: 100%;"/>
+           <h4>Danny Xu</h4>
+         </a>
+         <p>Undergrad starting in 20??</p>
+         <p><em>Specialization</em></p>
+     </div>     
+     <div style="width: 100%; max-width: 200px; margin: 0 auto;">
+         <a href="https://lead-utexas.github.io/people/members/Liang/">
+           <img src="/people/images/Liang.jpg" alt="Isa Kazen" style="width: 100%;"/>
+           <h4>Isa Kazen</h4>
+         </a>
+         <p>Undergrad starting in 20??</p>
+         <p><em>Specialization</em></p>
+     </div>
 </div>
 
 <br><!-- <br>-->
-
-
-<p id="IsaKazen"></p>
-
-<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
-    Isa Kazen
-</div>
-<div style="font-size: 15px !important; color: #555; float:left;">
-    <a href="mailto:isakazen@utexas.edu" target="_top" title="email" style="margin-right: 8px">
-        <img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
-    </a>
-<span style="font-size: 14px !important; color: #555;">Undergrad starting in 20??</span>
-</div>
-
-<br><!-- <br>-->
-
-
 
 
 <h2>Research staffs</h2>
@@ -425,19 +403,19 @@ subtitle:
 
 ### University at Buffalo
 <ul>
-	<li><a href="https://longshengsun.net" target="_blank">Longsheng Sun</a>, Ph.D., 2016, Designing Regulation Policies for Hazardous Materials Transportation</li>
-	<li><a href="https://www.linkedin.com/pub/masoumeh-taslimi/92/b90/b33" target="_blank">Masoumeh Taslimi</a>, Ph.D., 2015, On the Analysis of Two Problems related to Risk Management in Urban Transportation Networks</li>
-	<li><a href="https://www.linkedin.com/in/tolou-esfandeh-phd-b179b237" target="_blank">Tolou Esfandeh</a>, Ph.D., 2015, Regulating Hazardous Materials Transportation by Dual-Toll Pricing and Time-Dependent Network Design Policies</li>
-	<li><a href="https://www.linkedin.com/pub/iakovos-toumazis/49/327/917" target="_blank">Iakovos Toumazis</a>, Ph.D., 2015, Dynamic Chemotherapy Scheduling for Metastatic Colorectal Cancer Patients: Assessments and Improvements (<a href="http://toumiak.com" target="_blank">web</a>)</li>
-	<li><a href="https://www.linkedin.com/profile/view?id=61312329" target="_blank">Md. Tanveer Ahmed</a>, Ph.D., 2013, Revenue Management for Online Advertisement Services</li>
-	<li><a href="https://www.linkedin.com/profile/view?id=355659138">Paul Berglund</a>, Ph.D., 2012 Three Problems in Discrete Network Facility Location</li>
-	<li><a href="https://www.linkedin.com/profile/view?id=67693217">Yingying Kang</a>, Ph.D., 2011, (co-advisor Dr. Rajan Batta), Value-at-Risk Models for Hazardous Materials Transportation</li>
-	<li><a href="https://www.linkedin.com/in/alisattarzadeh" target="_blank">Ali Sattarzadeh</a>, M.S., 2015, Hazmat Network Design Considering Risk and Cost Equity</li>
-	<li><a href="https://www.linkedin.com/profile/view?id=82661512" target="_blank">Zulqarnain Haider</a>, M.S., 2014, Inventory Rebalancing through Pricing in Public Bike Sharing Systems</li>
-	<li><a href="https://www.linkedin.com/profile/view?id=109106725" target="_blank">Chelsea Greene</a>, M.S., 2013 (co-advisor Dr. Rajan Batta), OR/MS Approaches to Problems involving Hazardous Materials Risk and Impacts from a Natural Disaster</li>
-	<li><a href="https://www.linkedin.com/profile/view?id=29510416" target="_blank">Anand Srinivasan</a>, M.S., 2010, Operations of Online Advertising Services and Publisher's Options</li>
-	<li><a href="https://www.linkedin.com/profile/view?id=46544652" target="_blank">Amod Anand Agashe</a>, M.S., 2010, Stochastic Revenue Optimization in Online Advertising</li>
-	<li><a href="https://www.linkedin.com/profile/view?id=46856185" target="_blank">Varun Narayana Kutty</a>, M.S., 2010, Accept-Reject Decision in Online Advertising using Geometric Brownian Motion</li>
+     <li><a href="https://longshengsun.net" target="_blank">Longsheng Sun</a>, Ph.D., 2016, Designing Regulation Policies for Hazardous Materials Transportation</li>
+     <li><a href="https://www.linkedin.com/pub/masoumeh-taslimi/92/b90/b33" target="_blank">Masoumeh Taslimi</a>, Ph.D., 2015, On the Analysis of Two Problems related to Risk Management in Urban Transportation Networks</li>
+     <li><a href="https://www.linkedin.com/in/tolou-esfandeh-phd-b179b237" target="_blank">Tolou Esfandeh</a>, Ph.D., 2015, Regulating Hazardous Materials Transportation by Dual-Toll Pricing and Time-Dependent Network Design Policies</li>
+     <li><a href="https://www.linkedin.com/pub/iakovos-toumazis/49/327/917" target="_blank">Iakovos Toumazis</a>, Ph.D., 2015, Dynamic Chemotherapy Scheduling for Metastatic Colorectal Cancer Patients: Assessments and Improvements (<a href="http://toumiak.com" target="_blank">web</a>)</li>
+     <li><a href="https://www.linkedin.com/profile/view?id=61312329" target="_blank">Md. Tanveer Ahmed</a>, Ph.D., 2013, Revenue Management for Online Advertisement Services</li>
+     <li><a href="https://www.linkedin.com/profile/view?id=355659138">Paul Berglund</a>, Ph.D., 2012 Three Problems in Discrete Network Facility Location</li>
+     <li><a href="https://www.linkedin.com/profile/view?id=67693217">Yingying Kang</a>, Ph.D., 2011, (co-advisor Dr. Rajan Batta), Value-at-Risk Models for Hazardous Materials Transportation</li>
+     <li><a href="https://www.linkedin.com/in/alisattarzadeh" target="_blank">Ali Sattarzadeh</a>, M.S., 2015, Hazmat Network Design Considering Risk and Cost Equity</li>
+     <li><a href="https://www.linkedin.com/profile/view?id=82661512" target="_blank">Zulqarnain Haider</a>, M.S., 2014, Inventory Rebalancing through Pricing in Public Bike Sharing Systems</li>
+     <li><a href="https://www.linkedin.com/profile/view?id=109106725" target="_blank">Chelsea Greene</a>, M.S., 2013 (co-advisor Dr. Rajan Batta), OR/MS Approaches to Problems involving Hazardous Materials Risk and Impacts from a Natural Disaster</li>
+     <li><a href="https://www.linkedin.com/profile/view?id=29510416" target="_blank">Anand Srinivasan</a>, M.S., 2010, Operations of Online Advertising Services and Publisher's Options</li>
+     <li><a href="https://www.linkedin.com/profile/view?id=46544652" target="_blank">Amod Anand Agashe</a>, M.S., 2010, Stochastic Revenue Optimization in Online Advertising</li>
+     <li><a href="https://www.linkedin.com/profile/view?id=46856185" target="_blank">Varun Narayana Kutty</a>, M.S., 2010, Accept-Reject Decision in Online Advertising using Geometric Brownian Motion</li>
 </ul>
 
 -->
