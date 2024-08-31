@@ -10,8 +10,6 @@ subtitle:
 
 <br><!-- <br>-->
 
-<img src="/people/images/LEAD-GroupPhoto.jpg" width="450" align="center" hspace="20" target="_blank" title="LEAD-GroupPhoto" />
-
 <h2>Faculty</h2>
 <hr>
 
@@ -285,6 +283,10 @@ V0
 
 <br><!-- <br>-->
 
+
+<h2>Group Photos</h2>
+
+<img src="/people/images/LEAD-GroupPhoto.jpg" width="450" align="center" hspace="20" target="_blank" title="LEAD-GroupPhoto" />
 
 
 
