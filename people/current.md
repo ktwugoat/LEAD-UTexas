@@ -41,7 +41,7 @@ subtitle:
 
 <div>
     <a href="https://lead-utexas.github.io/people/members/NaveenSudharsan/">
-        <img src="/people/images/NaveenSudharsan.jpg" alt="Naveen Sudharsan" style="width: 100%; max-width: 150px;"/>
+        <img src="/people/images/Liang.jpg" alt="Naveen Sudharsan" style="width: 100%; max-width: 150px;"/>
         <h4>Naveen Sudharsan</h4>
     </a>
     <p>Postdoc</p>
@@ -49,7 +49,7 @@ subtitle:
 
 <div>
     <a href="https://lead-utexas.github.io/people/members/ChenxiHu/">
-        <img src="/people/images/ChenxiHu.jpg" alt="Chenxi Hu" style="width: 100%; max-width: 150px;"/>
+        <img src="/people/images/Liang.jpg" alt="Chenxi Hu" style="width: 100%; max-width: 150px;"/>
         <h4>Chenxi Hu</h4>
     </a>
     <p>Postdoc (starting in 2024)</p>
@@ -57,7 +57,7 @@ subtitle:
 
 <div>
     <a href="https://lead-utexas.github.io/people/members/ShyamaMohanty/">
-        <img src="/people/images/ShyamaMohanty.jpg" alt="Shyama Mohanty" style="width: 100%; max-width: 150px;"/>
+        <img src="/people/images/Liang.jpg" alt="Shyama Mohanty" style="width: 100%; max-width: 150px;"/>
         <h4>Shyama Mohanty</h4>
     </a>
     <p>Postdoc (starting in March 2024)</p>
