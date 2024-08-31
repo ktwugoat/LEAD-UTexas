@@ -102,200 +102,125 @@ V0
 
 <h2>Graduate students</h2>
 <hr>
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; text-align: center;">
 
-<p id="XinxinSui"></p>
-
-<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
-    Xinxin Sui
-</div>
-<div style="font-size: 15px !important; color: #555; float:left;">
-    <a href="mailto:suixinxin@utexas.edu" target="_top" title="email" style="margin-right: 8px">
-        <img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+  <div style="width: 100%; max-width: 200px; margin: 0 auto;">
+    <a href="#">
+      <img src="/people/images/Liang.jpg" alt="Xinxin Sui" style="width: 100%;"/>
+      <h4>Xinxin Sui</h4>
     </a>
-<span style="font-size: 14px !important; color: #555;">PhD From 2020, Civil Engineering, co-advised by Liang & Dev, JGB 5.346</span>
-</div>
+    <p>PhD from 2020</p>
+    <p><em>Specialization</em></p>
+  </div>
 
-<br><!-- <br>-->
-
-<p id="ChiehChenLee"></p>
-
-<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
-    Chieh-Chen Lee
-</div>
-<div style="font-size: 15px !important; color: #555; float:left;">
-    <a href="mailto:cclee@utexas.edu" target="_top" title="email" style="margin-right: 8px">
-        <img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+  <div style="width: 100%; max-width: 200px; margin: 0 auto;">
+    <a href="#">
+      <img src="/people/images/Liang.jpg" alt="Chieh-Chen Lee" style="width: 100%;"/>
+      <h4>Chieh-Chen Lee</h4>
     </a>
-<span style="font-size: 14px !important; color: #555;">PhD From 2021</span>
-</div>
+    <p>PhD from 2021</p>
+    <p><em>Specialization</em></p>
+  </div>
 
-<br><!-- <br>-->
-
-<p id="Harsh"></p>
-
-<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
-    Harsh
-</div>
-<div style="font-size: 15px !important; color: #555; float:left;">
-    <a href="mailto:harsh.kamath@utexas.edu" target="_top" title="email" style="margin-right: 8px">
-        <img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+  <div style="width: 100%; max-width: 200px; margin: 0 auto;">
+    <a href="#">
+      <img src="/people/images/Liang.jpg" alt="Jagger Alexander" style="width: 100%;"/>
+      <h4>Jagger Alexander</h4>
     </a>
-<span style="font-size: 14px !important; color: #555;">PhD From ??</span>
-</div>
+    <p>PhD from 2022</p>
+    <p><em>Specialization</em></p>
+  </div>
 
-<br><!-- <br>-->
-
-<p id="SasankaTalukdar"></p>
-
-<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
-    Sasanka Talukdar
-</div>
-<div style="font-size: 15px !important; color: #555; float:left;">
-    <a href="mailto:sasanka@utexas.edu" target="_top" title="email" style="margin-right: 8px">
-        <img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+  <div style="width: 100%; max-width: 200px; margin: 0 auto;">
+    <a href="#">
+      <img src="/people/images/Liang.jpg" alt="Caleb Earl Adams" style="width: 100%;"/>
+      <h4>Caleb Earl Adams</h4>
     </a>
-<span style="font-size: 14px !important; color: #555;">PhD From 20??</span>
-</div>
+    <p>PhD from 2022</p>
+    <p><em>Specialization</em></p>
+  </div>
 
-<br><!-- <br>-->
-
-
-<p id="RaymondLuong"></p>
-
-<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
-    Raymond Luong
-</div>
-<div style="font-size: 15px !important; color: #555; float:left;">
-    <a href="mailto:utruffel@utexas.edu" target="_top" title="email" style="margin-right: 8px">
-        <img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+  <div style="width: 100%; max-width: 200px; margin: 0 auto;">
+    <a href="#">
+      <img src="/people/images/Liang.jpg" alt="Shokoufeh Khojeh" style="width: 100%;"/>
+      <h4>Shokoufeh Khojeh</h4>
     </a>
-<span style="font-size: 14px !important; color: #555;">PhD From 20??</span>
-</div>
+    <p>PhD from 2023</p>
+    <p><em>Specialization</em></p>
+  </div>
 
-<br><!-- <br>-->
-
-<p id="Manmeet"></p>
-
-<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
-    Manmeet
-</div>
-<div style="font-size: 15px !important; color: #555; float:left;">
-    <a href="mailto:manmeet.singh@utexas.edu" target="_top" title="email" style="margin-right: 8px">
-        <img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+  <div style="width: 100%; max-width: 200px; margin: 0 auto;">
+    <a href="#">
+      <img src="/people/images/Liang.jpg" alt="Harsh" style="width: 100%;"/>
+      <h4>Harsh</h4>
     </a>
-<span style="font-size: 14px !important; color: #555;">PhD From 20??</span>
-</div>
+    <p>PhD year not specified</p>
+    <p><em>Specialization</em></p>
+  </div>
 
-<br><!-- <br>-->
-
-<p id="JaggerAlexander"></p>
-
-<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
-    Jagger Alexander
-</div>
-<div style="font-size: 15px !important; color: #555; float:left;">
-    <a href="mailto:jaggeralexander@utexas.edu" target="_top" title="email" style="margin-right: 8px">
-        <img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+  <div style="width: 100%; max-width: 200px; margin: 0 auto;">
+    <a href="#">
+      <img src="/people/images/Liang.jpg" alt="Sasanka Talukdar" style="width: 100%;"/>
+      <h4>Sasanka Talukdar</h4>
     </a>
-<span style="font-size: 14px !important; color: #555;">PhD From 2022</span>
-</div>
+    <p>PhD year not specified</p>
+    <p><em>Specialization</em></p>
+  </div>
 
-<br><!-- <br>-->
-
-<p id="Prudhvi"></p>
-
-<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
-    Prudhvi
-</div>
-<div style="font-size: 15px !important; color: #555; float:left;">
-    <a href="mailto:prudhvisai535@utexas.edu" target="_top" title="email" style="margin-right: 8px">
-        <img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+  <div style="width: 100%; max-width: 200px; margin: 0 auto;">
+    <a href="#">
+      <img src="/people/images/Liang.jpg" alt="Raymond Luong" style="width: 100%;"/>
+      <h4>Raymond Luong</h4>
     </a>
-<span style="font-size: 14px !important; color: #555;">PhD From 20??</span>
-</div>
+    <p>PhD year not specified</p>
+    <p><em>Specialization</em></p>
+  </div>
 
-<br><!-- <br>-->
-
-<p id="MahmoudMbarak"></p>
-
-<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
-    Mahmoud Mbarak
-</div>
-<div style="font-size: 15px !important; color: #555; float:left;">
-    <a href="mailto:mbarak@utexas.edu" target="_top" title="email" style="margin-right: 8px">
-        <img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+  <div style="width: 100%; max-width: 200px; margin: 0 auto;">
+    <a href="#">
+      <img src="/people/images/Liang.jpg" alt="Manmeet" style="width: 100%;"/>
+      <h4>Manmeet</h4>
     </a>
-<span style="font-size: 14px !important; color: #555;">PhD From 20??</span>
-</div>
+    <p>PhD year not specified</p>
+    <p><em>Specialization</em></p>
+  </div>
 
-<br><!-- <br>-->
-
-<p id="ShokoufehKhojeh"></p>
-
-<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
-    Shokoufeh Khojeh
-</div>
-<div style="font-size: 15px !important; color: #555; float:left;">
-    <a href="mailto:shokoufeh.khojeh@utexas.edu" target="_top" title="email" style="margin-right: 8px">
-        <img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+  <div style="width: 100%; max-width: 200px; margin: 0 auto;">
+    <a href="#">
+      <img src="/people/images/Liang.jpg" alt="Prudhvi" style="width: 100%;"/>
+      <h4>Prudhvi</h4>
     </a>
-<span style="font-size: 14px !important; color: #555;">PhD From 2023, Office at JGB 5.320. </span>
-</div>
+    <p>PhD year not specified</p>
+    <p><em>Specialization</em></p>
+  </div>
 
-<br><!-- <br>-->
-
-<p id="CalebEarlAdams"></p>
-
-<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
-    Caleb Earl Adams
-</div>
-<div style="font-size: 15px !important; color: #555; float:left;">
-    <a href="mailto:caleb.earl.adams@utexas.edu" target="_top" title="email" style="margin-right: 8px">
-        <img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+  <div style="width: 100%; max-width: 200px; margin: 0 auto;">
+    <a href="#">
+      <img src="/people/images/Liang.jpg" alt="Mahmoud Mbarak" style="width: 100%;"/>
+      <h4>Mahmoud Mbarak</h4>
     </a>
-<span style="font-size: 14px !important; color: #555;">PhD From 2022</span>
-</div>
+    <p>PhD year not specified</p>
+    <p><em>Specialization</em></p>
+  </div>
 
-<br><!-- <br>-->
+  <div style="width: 100%; max-width: 200px; margin: 0 auto;">
+    <a href="#">
+      <img src="/people/images/Liang.jpg" alt="Rakshith" style="width: 100%;"/>
+      <h4>Rakshith</h4>
+    </a>
+    <p>PhD from 2024</p>
+    <p><em>Specialization</em></p>
+  </div>
 
+  <div style="width: 100%; max-width: 200px; margin: 0 auto;">
+    <a href="#">
+      <img src="/people/images/Liang.jpg" alt="Koutian Wu" style="width: 100%;"/>
+      <h4>Koutian Wu</h4>
+    </a>
+    <p>PhD from 2024</p>
+    <p><em>Specialization</em></p>
+  </div>
 
-<p id="Wu"></p>
-
-<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
-	Koutian Wu
-</div>
-<div style="font-size: 15px !important; color: #555; float:left;">
-	<a href="mailto:ktwu@utexas.edu"  target="_top" title="email" style="margin-right: 8px">
-		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
-	</a>
-	<a href="https://github.com/ktwu01/" target="_blank" title="KW github" style="margin-right: 8px">
-		<img src="/img/github-brands.png" width="auto" height="20" alt="github"/>
-	</a>
-	<a href="https://twitter.com/ktwu01/" target="_blank" title="ktwu01 X" style="margin-right: 8px">
-		<img src="/img/twitter-icon.png" width="auto" height="20" alt="X"/>
-	</a>
-<span style="font-size: 14px !important; color: #555;"><a href="/pdfs/mockCV.pdf" target="_blank">CV</a> | <a href="https://scholar.google.com/citations?hl=en&user=s9w1k-cAAAAJ" target="_blank" >Google Scholar</a>  | <a href="https://ktwu01.github.io/" target="_blank" >Web</a> </span>
-</div>
-
-<br>
-
-<img src="/people/images/0KW_Profile_4_3.jpg" width="150" height="auto" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">Koutian Wu (Wu) is a first-year Ph.D. student in the LEAD Group at UT Austin. Office at JGB 5.320. He is interested in enhancing the capabilities of land-climate models, and ultimately aims to combine high-resolution modeling, in-situ measurements, and remote sensing to address emerging climate challenges. Currently, Wu is working on integrating rock moisture and wood moisture into the hydrological cycle using the Noah-MP model.</span>
-
-<span style="font-size: 15px !important; color: #555;">Wu presented his undergraduate work at the AGU 2023, where he was the first author in a poster session. He has presented case studies at the Top Innovative Talents Symposium at Tsinghua University.</span>
-
-<span style="font-size: 15px !important; color: #555;">Wu graduated from the School of Earth and Space Sciences at the University of Science and Technology of China (USTC) in 2024. He has been recognized with the "Honorary Rank" by USTC.</span>
-
-<br><!-- <br>-->
-
-
-<p id="Rakshith"></p>
-
-<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
-    Rakshith
-</div>
-<div style="font-size: 15px !important; color: #555; float:left;">
-<span style="font-size: 14px !important; color: #555;">PhD From 2024, co-advised by Liang & Dev</span>
 </div>
 
 <br><!-- <br>-->
