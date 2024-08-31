@@ -16,7 +16,7 @@ subtitle:
 <hr>
 
 
-<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; text-align: center;">
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; text-align: center;">
 
 <div>
     <a href="https://lead-utexas.github.io/people/members/Liang/">
@@ -37,7 +37,7 @@ subtitle:
 <h2>Postdocs</h2>
 <hr>
 
-V1
+<!--V1-->
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; text-align: center;">
 
 <div style="width: 100%; max-width: 200px; margin: 0 auto;">
@@ -61,7 +61,7 @@ V1
 </div>
 
 
-
+<!-- 
 V0
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; text-align: center;">
 
@@ -90,7 +90,7 @@ V0
 </div>
 
 </div>
-
+-->
 
 <h2>Graduate students</h2>
 <hr>
