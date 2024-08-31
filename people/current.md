@@ -37,6 +37,32 @@ subtitle:
 <h2>Postdocs</h2>
 <hr>
 
+V1
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; text-align: center;">
+
+<div style="width: 100%; max-width: 200px; margin: 0 auto;">
+    <img src="/people/images/Liang.jpg" alt="Naveen Sudharsan" style="width: 100%;"/>
+    <h4><a href="https://lead-utexas.github.io/people/members/NaveenSudharsan/">Naveen Sudharsan</a></h4>
+    <p>Postdoc</p>
+</div>
+
+<div style="width: 100%; max-width: 200px; margin: 0 auto;">
+    <img src="/people/images/Liang.jpg" alt="Chenxi Hu" style="width: 100%;"/>
+    <h4><a href="https://lead-utexas.github.io/people/members/ChenxiHu/">Chenxi Hu</a></h4>
+    <p>Postdoc (starting in 2024)</p>
+</div>
+
+<div style="width: 100%; max-width: 200px; margin: 0 auto;">
+    <img src="/people/images/Liang.jpg" alt="Shyama Mohanty" style="width: 100%;"/>
+    <h4><a href="https://lead-utexas.github.io/people/members/ShyamaMohanty/">Shyama Mohanty</a></h4>
+    <p>Postdoc (starting in March 2024)</p>
+</div>
+
+</div>
+
+
+
+V0
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; text-align: center;">
 
 <div>
@@ -60,7 +86,7 @@ subtitle:
         <img src="/people/images/Liang.jpg" alt="Shyama Mohanty" style="width: 100%; max-width: 150px;"/>
         <h4>Shyama Mohanty</h4>
     </a>
-    <p>Postdoc (starting in March 2024)</p>
+    <p>Postdoc (starting in 2024)</p>
 </div>
 
 </div>
