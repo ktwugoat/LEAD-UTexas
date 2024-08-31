@@ -51,7 +51,7 @@ subtitle:
 	<img src="/people/images/Liang.jpg" alt="Chenxi Hu" style="width: 100%;"/>
     <h4>Dr. Chenxi Hu</h4>
 </a>
-    <p>Postdoc (starting in 2024)</p>
+    <p>Postdoc starting in 2024</p>
     <p><em>Specialization</em></p>
 </div>
 
@@ -60,43 +60,12 @@ subtitle:
 	<img src="/people/images/Liang.jpg" alt="Shyama Mohanty" style="width: 100%;"/>
     <h4>Dr. Shyama Mohanty</h4>
 </a>
-    <p>Postdoc (starting in 2024)</p>
+    <p>Postdoc starting in 2024</p>
     <p><em>Specialization</em></p>
 </div>
 
 </div>
 
-
-<!-- 
-V0
-<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; text-align: center;">
-
-<div>
-    <a href="https://lead-utexas.github.io/people/members/NaveenSudharsan/">
-        <img src="/people/images/Liang.jpg" alt="Naveen Sudharsan" style="width: 100%; max-width: 150px;"/>
-        <h4>Naveen Sudharsan</h4>
-    </a>
-    <p>Postdoc</p>
-</div>
-
-<div>
-    <a href="https://lead-utexas.github.io/people/members/ChenxiHu/">
-        <img src="/people/images/Liang.jpg" alt="Chenxi Hu" style="width: 100%; max-width: 150px;"/>
-        <h4>Chenxi Hu</h4>
-    </a>
-    <p>Postdoc (starting in 2024)</p>
-</div>
-
-<div>
-    <a href="https://lead-utexas.github.io/people/members/ShyamaMohanty/">
-        <img src="/people/images/Liang.jpg" alt="Shyama Mohanty" style="width: 100%; max-width: 150px;"/>
-        <h4>Shyama Mohanty</h4>
-    </a>
-    <p>Postdoc (starting in 2024)</p>
-</div>
-
-</div>
--->
 
 <h2>Graduate students</h2>
 <hr>
@@ -107,7 +76,7 @@ V0
       <img src="/people/images/Liang.jpg" alt="Xinxin Sui" style="width: 100%;"/>
       <h4>Xinxin Sui</h4>
     </a>
-    <p>PhD from 2021</p>
+    <p>PhD starting in 2021</p>
     <p><em>Specialization</em></p>
   </div>
 
@@ -116,7 +85,7 @@ V0
       <img src="/people/images/Liang.jpg" alt="Mahmoud Mbarak" style="width: 100%;"/>
       <h4>Mahmoud Mbarak</h4>
     </a>
-    <p>PhD from 2021</p>
+    <p>PhD starting in 2021</p>
     <p><em>Specialization</em></p>
   </div>
   
@@ -125,7 +94,7 @@ V0
       <img src="/people/images/Liang.jpg" alt="Harsh" style="width: 100%;"/>
       <h4>Harsh Kamath</h4>
     </a>
-    <p>PhD from 2021</p>
+    <p>PhD starting in 2021</p>
     <p><em>Specialization</em></p>
   </div>
 
@@ -134,7 +103,7 @@ V0
       <img src="/people/images/Liang.jpg" alt="Chieh-Chen Lee" style="width: 100%;"/>
       <h4>Chieh-Chen Lee</h4>
     </a>
-    <p>PhD from 2022</p>
+    <p>PhD starting in 2022</p>
     <p><em>Specialization</em></p>
   </div>
 
@@ -143,7 +112,7 @@ V0
       <img src="/people/images/Liang.jpg" alt="Jagger Alexander" style="width: 100%;"/>
       <h4>Jagger Alexander</h4>
     </a>
-    <p>PhD from 2022</p>
+    <p>PhD starting in 2022</p>
     <p><em>Specialization</em></p>
   </div>
 
@@ -152,7 +121,7 @@ V0
       <img src="/people/images/Liang.jpg" alt="Caleb Earl Adams" style="width: 100%;"/>
       <h4>Caleb Earl Adams</h4>
     </a>
-    <p>PhD from 2022</p>
+    <p>PhD starting in 2022</p>
     <p><em>Specialization</em></p>
   </div>
 
@@ -161,7 +130,7 @@ V0
       <img src="/people/images/Liang.jpg" alt="Sasanka Talukdar" style="width: 100%;"/>
       <h4>Sasanka Talukdar</h4>
     </a>
-    <p>PhD from 2022</p>
+    <p>PhD starting in 2022</p>
     <p><em>Specialization</em></p>
   </div>
 
@@ -170,7 +139,7 @@ V0
       <img src="/people/images/Liang.jpg" alt="Shokoufeh Khojeh" style="width: 100%;"/>
       <h4>Shokoufeh Khojeh</h4>
     </a>
-    <p>PhD from 2023</p>
+    <p>PhD starting in 2023</p>
     <p><em>Specialization</em></p>
   </div>
 
@@ -179,7 +148,7 @@ V0
       <img src="/people/images/Liang.jpg" alt="Rakshith" style="width: 100%;"/>
       <h4>Rakshith</h4>
     </a>
-    <p>PhD from 2024</p>
+    <p>PhD starting in 2024</p>
     <p><em>Specialization</em></p>
   </div>
 
@@ -188,7 +157,7 @@ V0
       <img src="/people/images/Liang.jpg" alt="Koutian Wu" style="width: 100%;"/>
       <h4>Koutian Wu</h4>
     </a>
-    <p>PhD from 2024</p>
+    <p>PhD starting in 2024</p>
     <p><em>Specialization</em></p>
   </div>
 
@@ -228,7 +197,7 @@ V0
     <a href="mailto:liangjx0621@utexas.edu" target="_top" title="email" style="margin-right: 8px">
         <img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
     </a>
-<span style="font-size: 14px !important; color: #555;">Undergrad From 2021</span>
+<span style="font-size: 14px !important; color: #555;">Undergrad starting in 2021</span>
 </div>
 
 <br><!-- <br>-->
@@ -244,7 +213,7 @@ V0
     <a href="mailto:dannyxu@utexas.edu" target="_top" title="email" style="margin-right: 8px">
         <img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
     </a>
-<span style="font-size: 14px !important; color: #555;">Undergrad From 20??</span>
+<span style="font-size: 14px !important; color: #555;">Undergrad starting in 20??</span>
 </div>
 
 <br><!-- <br>-->
@@ -259,7 +228,7 @@ V0
     <a href="mailto:isakazen@utexas.edu" target="_top" title="email" style="margin-right: 8px">
         <img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
     </a>
-<span style="font-size: 14px !important; color: #555;">Undergrad From 20??</span>
+<span style="font-size: 14px !important; color: #555;">Undergrad starting in 20??</span>
 </div>
 
 <br><!-- <br>-->
