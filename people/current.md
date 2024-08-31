@@ -340,10 +340,9 @@ V0
 <br><!-- <br>--><br>
 
 
-<!-- <b><span style="font-size: 20px !important; color: #0055A9;">We're hiring!</h2> <span style="font-size: 16px !important;">(for more imforation, please see [here](/jobs/))</span>
+<!-- <b><span style="font-size: 20px !important; color: #0055A9;">We're hiring!</h2> <span style="font-size: 16px !important;">(for more imforation, please see [here](/jobs/))</span>-->
 
-<!-- <br><!-- <br>--><br><!-- <br>-->
-
+<!-- 
 ## Past Members
 
 ### University at Buffalo
@@ -363,4 +362,4 @@ V0
 	<li><a href="https://www.linkedin.com/profile/view?id=46856185" target="_blank">Varun Narayana Kutty</a>, M.S., 2010, Accept-Reject Decision in Online Advertising using Geometric Brownian Motion</li>
 </ul>
 
-&nbsp;-->
+-->
