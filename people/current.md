@@ -174,25 +174,6 @@ V0
     <p><em>Specialization</em></p>
   </div>
 
-
-  <div style="width: 100%; max-width: 200px; margin: 0 auto;">
-    <a href="#">
-      <img src="/people/images/Liang.jpg" alt="Manmeet" style="width: 100%;"/>
-      <h4>Manmeet</h4>
-    </a>
-    <p>PhD year not specified</p>
-    <p><em>Specialization</em></p>
-  </div>
-
-  <div style="width: 100%; max-width: 200px; margin: 0 auto;">
-    <a href="#">
-      <img src="/people/images/Liang.jpg" alt="Prudhvi" style="width: 100%;"/>
-      <h4>Prudhvi</h4>
-    </a>
-    <p>PhD year not specified</p>
-    <p><em>Specialization</em></p>
-  </div>
-
   <div style="width: 100%; max-width: 200px; margin: 0 auto;">
     <a href="#">
       <img src="/people/images/Liang.jpg" alt="Rakshith" style="width: 100%;"/>
@@ -211,12 +192,18 @@ V0
     <p><em>Specialization</em></p>
   </div>
 
+  <div style="width: 100%; max-width: 200px; margin: 0 auto;">
+    <a href="#">
+      <img src="/people/images/Liang.jpg" alt="Prudhvi" style="width: 100%;"/>
+      <h4>Prudhvi</h4>
+    </a>
+    <p>Master since 2024</p>
+    <p><em>Specialization</em></p>
+  </div>
+
 </div>
 
 <br><!-- <br>-->
-
-
-
 
 <h2>Undergraduate students</h2>
 <hr>
@@ -227,7 +214,7 @@ V0
       <img src="/people/images/Liang.jpg" alt="Raymond Luong" style="width: 100%;"/>
       <h4>Raymond Luong</h4>
     </a>
-    <p>PhD year not specified</p>
+    <p>undergrad year since 2023?</p>
     <p><em>Specialization</em></p>
   </div>
 
