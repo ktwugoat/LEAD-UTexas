@@ -7,7 +7,7 @@ subtitle: land surface processes, climate modeling, land-atmosphere interaction,
 
 <img src="img/LEAD.jpg" width="820" align="center"/>
 
-<iframe width="820" height="461.25" src="https://www.youtube-nocookie.com/embed/e5cz3WhE_NI?si=vAySsQE4cTpka1Cs&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube-nocookie.com/embed/e5cz3WhE_NI?si=vAySsQE4cTpka1Cs&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen align="center"></iframe>
 
 <Strong>Welcome to Dr. Zong-Liang Yang’s Land Environment and Atmospheric Dynamics (LEAD) Group at UT-Austin.</Strong>
 
